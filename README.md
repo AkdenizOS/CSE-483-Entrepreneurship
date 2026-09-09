@@ -62,6 +62,19 @@ material a previous student collected for an exam on it.
 | [`terms/`](terms/) | One folder per cohort |
 | [`resources/`](resources/) | Syllabus PDF |
 
+## Who changes what
+
+| File | Who edits it | When |
+|------|-------------|------|
+| `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
+| `docs/*.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `terms/<your-term>/notes/week-NN.md` | **only you** | Every week. This is your notebook. |
+| `terms/<your-term>/` | **only you** | Your slides, labs, assignments, submissions. |
+| `exams/past/<term>/` | **anyone** | When you get hold of a new paper. |
+
+Two students in different years never touch the same file except to improve the
+shared plan — which is the point.
+
 ## Contributing
 
 Create `terms/<YYYY>-<YYYY>-<term>/` with a `README.md` naming the instructor and

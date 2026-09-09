@@ -22,12 +22,7 @@
 - [ ] Lecture attended
 - [ ] Project section drafted
 
-## My notes
+---
 
-<!-- Lecture: what was actually covered. -->
-
-<!-- Examples and cases given. -->
-
-<!-- Questions to ask. -->
-
-<!-- Exam-worthy: definitions, frameworks, formulas. -->
+Your own notes for this week go in `terms/<your-term>/notes/week-12.md`, not here.
+This file is the shared plan — improve it if the course changes, but keep it general.
