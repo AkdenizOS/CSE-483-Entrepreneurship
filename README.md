@@ -78,6 +78,9 @@ Open the week, scroll to the bottom, write under your own heading:
 Add your heading below the existing ones and never edit someone else's section —
 different sections merge in git without conflicts.
 
+Your section is **yours**. The shared plan at the top of the week is not — if the
+course changed, fix it there so the next person gets the corrected version.
+
 ## Who changes what
 
 | What | Who edits it | When |
@@ -104,3 +107,5 @@ shared plan — which is the point.
 Add a row to the Terms table naming the instructor and dates. Put your notes in
 your own section of each week file and your project in `assignments/<term>-<you>/`.
 Keep the shared plan at the top of each week file and `course-info.md` general.
+Material from a term whose author is not known goes in `assignments/<term>-unattributed/`.
+Use a lowercase, hyphenated name in paths — `efe-kurucay`, not `Efe Kuruçay`.
