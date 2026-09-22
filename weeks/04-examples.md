@@ -9,7 +9,7 @@
 
 ## Key concepts
 - The Turkish ecosystem: KOSGEB, TÜBİTAK, TEKNOPARK, incubators and accelerators.
-- **KOSGEB** support programmes — see [`terms/undated/kosgeb/`](../terms/undated/kosgeb/) for the exam material on this.
+- **KOSGEB** support programmes — see [`exams/undated-kosgeb-sinav3/`](../exams/undated-kosgeb-sinav3/) for the exam material on this.
 - Turkish success cases and what enabled them.
 - Global comparison: Silicon Valley, Europe, Asia — what differs in capital, culture and regulation.
 
@@ -23,5 +23,19 @@
 
 ---
 
-Your own notes for this week go in `terms/<your-term>/notes/week-04.md`, not here.
 This file is the shared plan — improve it if the course changes, but keep it general.
+Personal notes go below, one `## Notes — <Name> (<term>)` section per person.
+
+## Notes — Efe (2026-2027 Fall)
+
+### Lecture
+<!-- What was actually covered, and what the lecturer emphasised. -->
+
+### Worked out by hand
+<!-- Derivations, proofs, traced algorithms. -->
+
+### Questions
+<!-- Unclear things. Ask, then answer them here. -->
+
+### Exam-worthy
+<!-- Formulas, conditions, algorithm steps, pitfalls. -->

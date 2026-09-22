@@ -48,35 +48,59 @@ if you can define every bolded term in a week, you know that week.
 **3. Use the CSE 321 statistics for week 7.** Market research is sampling; you have
 already done confidence intervals.
 
-**4. KOSGEB comes up.** [`terms/undated/kosgeb/`](terms/undated/kosgeb/) holds
+**4. KOSGEB comes up.** [`exams/undated-kosgeb-sinav3/`](exams/undated-kosgeb-sinav3/) holds
 material a previous student collected for an exam on it.
 
-**5. Write under `## My notes`** at the bottom of each week note.
+**5. Write under your own `## Notes — <Name> (<term>)` heading** at the bottom of each week note.
 
 ## Layout
 
-| Path | What it holds |
-|------|---------------|
-| [`weeks/`](weeks/) | The study plan, one note per week |
-| [`docs/`](docs/) | Glossary |
-| [`terms/`](terms/) | One folder per cohort |
-| [`resources/`](resources/) | Syllabus PDF |
+```
+README.md        This page
+course-info.md   Glossary (Turkish ↔ English)
+weeks/NN-*.md    One file per week: the shared plan on top, everyone's notes below
+exams/           Past exam material (KOSGEB set, undated) and how to add a paper
+resources/       Syllabus PDF
+```
+
+## Taking notes
+
+Open the week, scroll to the bottom, write under your own heading:
+
+```markdown
+## Notes — <Name> (<term>)
+### Lecture
+### Worked out by hand
+### Questions
+### Exam-worthy
+```
+
+Add your heading below the existing ones and never edit someone else's section —
+different sections merge in git without conflicts.
 
 ## Who changes what
 
-| File | Who edits it | When |
+| What | Who edits it | When |
 |------|-------------|------|
-| `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
-| `docs/*.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
-| `terms/<your-term>/people/<you>/notes/week-NN.md` | **only you** | Every week. This is your notebook. |
-| `terms/<your-term>/people/<you>/` | **only you** | Your assignments, projects, submissions. |
-| `terms/<your-term>/course/` | **anyone in that term** | Slides, syllabus and lab sheets the instructor issued. |
-| `exams/past/<term>/` | **anyone** | When you get hold of a new paper — blank or answered. Exam papers never go under `terms/`. |
+| Top of `weeks/NN-*.md` (goals, key concepts, practice) | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. |
+| `## Notes — <you>` in a week file | **only you** | Every week. |
+| `course-info.md`, `exams/README.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `assignments/<term>-<you>/` | **only you** | Your assignments, projects (the term project), submissions. |
+| `resources/<term>/` | **anyone in that term** | Slides, syllabus and lab sheets the instructor issued that term. |
+| `exams/` | **anyone** | When you get hold of a new paper — blank or answered. Put the writer's surname in the filename (`2026-2027-final-answered-altungoz.pdf`). |
 
 Two students in different years never touch the same file except to improve the
 shared plan — which is the point.
 
+## Terms
+
+| Term | Instructor | Schedule | Midterm | Final | Notes |
+|------|-----------|----------|---------|-------|-------|
+| Fall 2026-2027 | TBD — fill in during week 1 | TBD | TBD | TBD | Efe — in every week file |
+| undated | — | — | — | — | KOSGEB exam material collected by a previous student ([exams/undated-kosgeb-sinav3/](exams/undated-kosgeb-sinav3/)) |
+
 ## Contributing
 
-Create `terms/<YYYY>-<YYYY>-<term>/` with a `README.md` naming the instructor and
-dates, and put your project and notes there. Keep `weeks/` and `docs/` general.
+Add a row to the Terms table naming the instructor and dates. Put your notes in
+your own section of each week file and your project in `assignments/<term>-<you>/`.
+Keep the shared plan at the top of each week file and `course-info.md` general.
