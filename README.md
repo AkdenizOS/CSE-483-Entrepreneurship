@@ -53,6 +53,10 @@ material a previous student collected for an exam on it.
 
 **5. Write under your own `## Notes — <Name> (<term>)` heading** at the bottom of each week note.
 
+**6. Read the course videos.** [`resources/videos/`](resources/videos/index.html) has one
+illustrated page for each of the 15 *Entrepreneurship for Engineers* (TTE01x) videos. The
+pages are HTML, so clone the repository and open `index.html` in a browser.
+
 ## Layout
 
 ```
@@ -61,6 +65,7 @@ course-info.md   Glossary (Turkish ↔ English)
 weeks/NN-*.md    One file per week: the shared plan on top, everyone's notes below
 exams/           Past exam material (KOSGEB set, undated) and how to add a paper
 resources/       Syllabus PDF
+resources/videos/  Illustrated notes on the 15 course videos, one HTML page each
 ```
 
 ## Taking notes
