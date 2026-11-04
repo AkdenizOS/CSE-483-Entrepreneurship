@@ -120,6 +120,21 @@ Sorular PDF s. 81'de başlar; cevap anahtarı PDF s. 83.
 - Başabaş noktası (gelirin yatırılan parayı çıkardığı an: hangi ay, kaç kişi, ne ciro) ile geri ödeme süresi (net kârın başlangıç sermayesini karşılama süresi) ve değerleme (şirketin kaça satılabileceği).
 
 
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 3 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Mevcut pazarda bir ürünün **tercih edilmesi ve satın alım gücünün olması**na ne denir? (ihtiyaç / güdü / talep / değişim / istek) → **Talep.** Talep = istek + satın alma gücü.
+2. Henüz hayata geçmemiş bir iş fikri için **ilk olarak** hangi pazar tipi hedeflenmeli? (ilk hedef pazar / erişilebilir mevcut pazar / yeniden incelenmiş pazar / toplam mevcut pazar / yeni pazar) → LMS'in cevabı **"Yeniden incelenmiş pazar"**. Dikkat: video ve bu notun yukarısı "başlangıçta asıl hedef İlk Hedef Pazar (İHP)" diyor. Sınavda bu soru aynen gelirse LMS'in cevabını işaretle.
+3. Girişimcinin **hangi ayda, kaç kişiye, ne ciroyla** ulaşırsa yatırdığı parayı çıkaracağını gösteren hangisidir? → **Başabaş noktası.** Geri ödeme zamanı ise net kârın başlangıç sermayesini karşılama süresidir; ikisi sık karıştırılır.
+4. "Müşteriler ürünü değil, ürünün sağladığı faydayı satın alır" görüşünün **eksikliğine** ne denir? → **Pazarlama körlüğü** (pazarlama miyopluğu).
+5. Yenilikleri Benimseme Teorisi'ne göre **en az kişiden** oluşan grup? → **Yenilikçiler.**
+6. Hangisi girişimin başarısındaki önemli faktörlerden biri **değildir**? (kâr paylarının eşit olması / ortaklık ve şirket yapısı / kurucuların geçmişi / iş bölümü / vizyon) → **Kurucuların kâr paylarının eşit olması.** Hisse eşit değil, katkı ve risk oranında dağıtılmalı.
+7. **Gelecek trendlerinde** talep zamanla nasıl değişir? → **Yavaş yavaş ve zamana yayılarak artar.** Heves hızlı yükselip hızlı düşer; moda döngülüdür.
+8. Yenilikleri Benimseme Teorisi'nde **büyük uçurum** hangi iki grup arasındadır? → **Erken benimseyenler – Erken çoğunluk.** Küçük uçurum: yenilikçiler – erken benimseyenler.
+9. "Müşteriler ürünü değil faydayı satın alır; bunu göremeyen firmalar pazarlama körlüğü yaşar" sözü kimin? (Bagozzi / Levy / Kotler / Porter / Levitt) → **Theodore Levitt.**
+10. Hangisi iş fikrinin başarısız olma sebeplerinden biri **değildir**? (kaynak eksikliğine rağmen harekete geçmek / gereğinden fazla sermaye yatırmak / hedef kitleyi çok geniş tutmak / rekabetçi iş modeli kuramamak / doğru ekibi kuramamak) → **Kaynak eksikliğine rağmen harekete geçmek.** Finansal sermaye eksikliği bir işin hayata geçmesine engel olmamalı; doğru ekip yatırım almadan da başarabilir.
+
 ## Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
