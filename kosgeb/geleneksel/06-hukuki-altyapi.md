@@ -303,3 +303,22 @@ Sorular PDF s. 137'de başlar (s. 137–138); cevap anahtarı PDF s. 139.
 - **Unvan, işletme adı, marka:** Unvan tacirleri, işletme adı işletmeleri, marka mal ve hizmetleri ayırır. Unvan zorunlu, işletme adı isteğe bağlıdır.
 - **Süreler:** çek ibrazı 10 gün / 1 ay / 3 ay; fatura itirazı 8 gün; açık ayıp 2 gün, gizli ayıp incelemesi 8 gün; çıkmaya katılma 1 ay; çıkarma kararına iptal davası 3 ay; marka kullanmama 5 yıl; tasfiyede ilanlar birer hafta arayla 3 kez, dağıtım için 1 yıl bekleme.
 - **Çoğunluklar ve sayılar:** sözleşme değişikliği için sermayenin 2/3'ü, genel kurulda müdür değişikliği için salt çoğunluk. Asgari sermaye: AŞ 50.000 TL, Ltd 10.000 TL. Kooperatif en az 7 kişiyle, AŞ ve Ltd tek kişiyle, adi/kollektif/komandit en az 2 kişiyle kurulur.
+
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 6 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Hangisi **KOBİ olabilir**? (limited / anonim / gerçek kişi tacir / esnaf) → **Hepsi.** KOBİ hukuki türe değil çalışan sayısı, ciro/bilanço ve bağımsızlığa bakar.
+2. Kollektif, anonim, komandit, sermayesi paylara bölünmüş komandit: hangileri? → **I ve III (kollektif, komandit).** LMS'teki soru metni bozuk ("dövizden etkilenme" diyor); cevap **şahıs şirketlerini** gösteriyor. Anonim ve sermayesi paylara bölünmüş komandit sermaye şirketidir.
+3. Kuruluş süreci hangi aşamayla **tamamlanır**? → **Türkiye Ticaret Sicili Gazetesi'nde ilan.**
+4. Anonim, limited, kollektif: hangilerinde ortağın **şahsından çok koyduğu sermaye (pay)** önemlidir? → **I ve II (anonim, limited)**, yani sermaye şirketleri. Kollektifte ortağın şahsı önemlidir.
+5. Bonoya ilişkin hangisi **yanlıştır**? → **"Yetkili temsilci imzası geçersizdir."** Temsilci imzası geçerlidir. Doğrular: keşidecinin imzası yoksa bono geçersizdir, imza el yazısıyla olmalıdır, düzenleyen kabul etmiş muhatap gibi sorumludur ve bedeli vadede kayıtsız şartsız ödemeyi taahhüt eder.
+6. Kanunen gerekli bir organ uzun süredir yoksa ya da genel kurul toplanamıyorsa feshe karar veren mahkeme? → **Asliye ticaret mahkemesi.**
+7. Limited şirketin yönetim ve temsiliyle ilgili hangisi **yanlıştır**? → **"Yönetim ve temsil yetkisi, müdür sıfatını taşıyan üçüncü kişilere verilir."** En az bir **ortağın** yönetim ve temsil yetkisi olmalıdır.
+8. Tüzel kişilik **hangi anda** kazanılır? → **Ticaret müdürlüğüne tescil edildiği anda.** İlanla kuruluş süreci tamamlanır (3. soru), tüzel kişilik ise tescille doğar; ikisi sık karıştırılır.
+9. Hangisi **girişimci değildir**? (sanatkâr / esnaf / memur / tüccar / tacir) → **Memur.**
+10. Limited şirkette yönetim ve temsil yetkisi kimdedir? → **Müdür(ler)de.**
+
+## Videolar
+
+LMS'teki iki video tamamlandı: **6.1** İşletme, Esnaf, Tacir ve Sermaye Kavramları, **6.2** Hukuki Altyapı. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
