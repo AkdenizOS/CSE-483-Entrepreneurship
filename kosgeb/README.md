@@ -34,14 +34,14 @@ geldiği çıkarım; İleri kursu açılınca bölüm listesiyle karşılaştır
 | 1 | [Girişimcilikte Temel Kavramlar](geleneksel/01-girisimcilikte-temel-kavramlar.md) | 18–47 | 4 video (1.0–1.3) |
 | 2 | [Girişim Fırsatlarını Görme ve Fikir Yaratma/Geliştirme](geleneksel/02-firsatlar-ve-fikir-gelistirme.md) | 48–61 | 2 video |
 | 3 | [Yapılabilirlik Analizi](geleneksel/03-yapilabilirlik-analizi.md) | 62–83 | 2 video |
-| 4 | [İş Modelleri, Müşteriler, Değer Önerileri ve Gelir Kaynakları](geleneksel/04-is-modelleri-musteriler-deger-onerileri.md) | 84–101 | 2 video |
-| 5 | [Ekonomi, Endüstri, Rekabet ve Müşteri Analizi](geleneksel/05-ekonomi-endustri-rekabet-musteri-analizi.md) | 102–121 | — |
-| 6 | [Hukuki Altyapı](geleneksel/06-hukuki-altyapi.md) | 122–139 | — |
-| 7 | [Girişimin Etik Temelleri](geleneksel/07-girisimin-etik-temelleri.md) | 140–155 | — |
-| 8 | [Pazarlama İlkeleri ve Yönetimi](geleneksel/08-pazarlama-ilkeleri-ve-yonetimi.md) | 156–187 | — |
+| 4 | [İş Modelleri, Müşteriler, Değer Önerileri ve Gelir Kaynakları](geleneksel/04-is-modelleri-musteriler-deger-onerileri.md) | 84–101 | 2 / 3 video |
+| 5 | [Ekonomi, Endüstri, Rekabet ve Müşteri Analizi](geleneksel/05-ekonomi-endustri-rekabet-musteri-analizi.md) | 102–121 | 3 video, özet yok |
+| 6 | [Hukuki Altyapı](geleneksel/06-hukuki-altyapi.md) | 122–139 | 2 video, özet yok |
+| 7 | [Girişimin Etik Temelleri](geleneksel/07-girisimin-etik-temelleri.md) | 140–155 | 2 video, özet yok |
+| 8 | [Pazarlama İlkeleri ve Yönetimi](geleneksel/08-pazarlama-ilkeleri-ve-yonetimi.md) | 156–187 | 4 video, özet yok |
 
-Bölüm 5–8'in videoları LMS'te kilitli ve herkese açık bir kopyaları yok. O bölümler açıldıkça
-özetleri ilgili notun sonuna `## Videolar` başlığıyla ekle.
+Bölüm 4.3 ve 5–8'in videolarının herkese açık kopyası yok, bu yüzden özetleri yok; o bölümlerde
+kitap notu esas. Her notta LMS'teki bölüm sonu sınavının 10 sorusu doğru cevaplarıyla duruyor.
 
 ## İleri Girişimcilik — final
 
