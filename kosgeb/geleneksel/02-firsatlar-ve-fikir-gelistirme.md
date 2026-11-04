@@ -124,7 +124,7 @@ Sorular PDF s. 58'de başlar. Cevap anahtarı PDF s. 60'tadır.
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 
-### Girişim Fırsatlarını Görme (10:07) · [izle](https://www.youtube.com/watch?v=FXLxO7D9KC0)
+### Video 2.1 — Girişim Fırsatlarını Görme (10:07) · [izle](https://www.youtube.com/watch?v=FXLxO7D9KC0)
 
 - **Fikir** tohuma benzer: ürüne dönüşmedikçe değeri yoktur. Önemli olan fikri doğru zamanda, doğru yerde, doğru şekilde hayata geçirmektir.
 - "Fikir orijinal olmalı ve sır gibi saklanmalı" doğru bilinen bir yanlıştır. Örnek: 2010'dan beri internetten takı satan her iki girişimden biri batmıştır; analiz ve plan şarttır.
@@ -133,7 +133,7 @@ Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların Y
 - Kendi problemini çözerek doğan girişimler: **MailChimp** (e-posta tasarımı yapmayı sevmeyen ajans), **Shopify** (snowboard satmak isteyen Tobi Lütke; 2006), **WeWork** (binadaki boş alanlar; önce Green Desk, 2008), **Dropbox** (evde unutulan USB), **Malwarebytes** (14 yaşında virüsü silemeyen kurucu), **Facebook** (CourseMatch ve FaceMash'ten), **Google** (Page'in tezi; atıf mantığı → PageRank, ilk adı BackRub), **Joy Mangano** (sıkması kolay paspas).
 - **İhtiyaç**: kişinin eksikliğini hissettiği şey. İnsanlar ihtiyacını yanlış ifade edebilir: Ford'a atfedilen "daha hızlı atlar" sözü; MP3 bir araçtır, ihtiyaç müzik dinlemektir.
 
-### Fikir Yaratma ve Geliştirme (7:43) · [izle](https://www.youtube.com/watch?v=Mu-nBcMhuwg)
+### Video 2.2 — Fikir Yaratma ve Geliştirme (7:43) · [izle](https://www.youtube.com/watch?v=Mu-nBcMhuwg)
 
 - **Müşteri keşfi** görüşmelerinde: "şöyle bir ürünümüz var, kullanır mısınız?" diye sorma; cevabını bildiğin soruları sorma; karşı tarafı konuştur; çok kişiyle görüş; söylediklerinden çok **yaptıklarına** bak.
 - **Tasarımsal düşünme**: empati kur → probleme odaklan → fikir geliştir → model (prototip) üretip ihtiyacı karşılıyor mu bak.
