@@ -124,7 +124,7 @@ Sorular PDF s. 81'de başlar; cevap anahtarı PDF s. 83.
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 
-### Kaynaklar ve İş Fikri Uyumu (8:37) · [izle](https://www.youtube.com/watch?v=NvDdjkyZW_Q)
+### Video 3.1 — Kaynaklar ve İş Fikri Uyumu (8:37) · [izle](https://www.youtube.com/watch?v=NvDdjkyZW_Q)
 
 - Girişimler büyük şirketlerin küçük versiyonu değildir. Fikir aşamasındaki girişim **inanç temellidir**; inancı veriye, veriyi uygulamaya çevirmek gerekir. Yapılabilirlik analizi belirsizliği giderir, riski azaltır, ekibin "röntgenini çeker".
 - Başarıda en önemli değişken **kurucu ekip**; sermaye, teknoloji ve fikir ondan sonra gelir. Ekibin kaynak, yetenek ve vizyonunun fikirle uyumuna **fikir-kurucu uyumu** denir.
@@ -135,7 +135,7 @@ Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların Y
 - Finansal yeterlilik: **nakit akışı tablosu** (yatırımcılar ilk yıl aylık, toplam 5 yıllık gelir-gider ister), **başabaş noktası** (hangi ayda kaç kişiye ne ciroyla yatırılan para çıkar), **geri ödeme süresi** (net kârın başlangıç sermayesini karşılama süresi; 100 bin TL yatırım, 5. aydan itibaren ayda 10 bin kâr → 15 ay), **değerleme** (şirketin uzun vadede kaça satılabileceği).
 - Finansal sermaye gereklidir ama eksikliği engel olmamalı; doğru insan kaynağıyla yatırım almadan da başarılı ürün çıkarılabilir.
 
-### Yatırım Çekiciliği (9:10) · [izle](https://www.youtube.com/watch?v=dDCRYO6CdxU)
+### Video 3.2 — Yatırım Çekiciliği (9:10) · [izle](https://www.youtube.com/watch?v=dDCRYO6CdxU)
 
 - Yatırım çekiciliği iş fikrinin **pazar büyüklüğünü ve hedef kitlesini** tarif eder.
 - Hedef pazar üç katmandır: **TMP** (toplam mevcut pazar, en geniş evren), **EMP** (erişilebilir mevcut pazar, firmanın kaynaklarıyla ulaşabileceği), **İHP** (ilk hedef pazar, ilk müşteri grubu). Örnek: İstanbul'da 535 belgeli tesis → 4 yıldız üstü ve butik 247 → yarısı uygun → EMP ≈ 120 otel.
