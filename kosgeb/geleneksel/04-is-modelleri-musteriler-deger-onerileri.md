@@ -124,7 +124,7 @@ Sorular PDF s. 98'de başlar; cevap anahtarı PDF s. 100.
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 
-### İş Modelleri (8:25) · [izle](https://www.youtube.com/watch?v=YkOLKn2Um8Q)
+### Video 4.1 — İş Modelleri (8:25) · [izle](https://www.youtube.com/watch?v=YkOLKn2Um8Q)
 
 - İki girişimcilik türü: **zorunluluk temelli** (başka seçenek olmadığı için; büyüme ihtimali düşük) ve **fırsat temelli** (pazarda boşluk görüldüğü için; değer ve istihdam yaratanlar genelde bu).
 - **Klasik** girişimci küçük kalmak için kurulur (bakkal, kasap); **yüksek büyüme potansiyelli** girişimci yeni ürünü yüksek belirsizlikte geliştirir.
@@ -136,7 +136,7 @@ Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların Y
 - **Kilit etkinlik**: zor ya da pahalı ama şart olan iş (kişiye özel yüzükte tasarım). **Kilit kaynak**: fiziksel, finansal, fikri ya da beşeri (iyi yazılımcı, tesis, zor bulunan ham madde). **Kilit ortak** özel bir ilişkidir; OSB'de onlarca benzeri olan makinenin sahibi kilit ortak değildir.
 - En klasik gelir modeli **satış**. Maliyet yapısı ana maliyet kalemlerini ve sabit/değişken ayrımını sorar.
 
-### Müşteriler (6:58) · [izle](https://www.youtube.com/watch?v=CLljeCVuGj8)
+### Video 4.2 — Müşteriler (6:58) · [izle](https://www.youtube.com/watch?v=CLljeCVuGj8)
 
 - Dört hedefleme stratejisi: **kitle** (büyük ölçek, tek ürün), **niş** (küçük grup, farklı ürün), **çok yanlı** (iki ya da daha fazla grup; ücretsiz gazetede okuyucu **kullanıcı**, reklam veren **müşteri**), **uzun kuyruk** (çok satanlar yerine az satanlar; nadir kitap satan kitapçı).
 - **Müşteri kesitleri / segmentasyon**: kendi içinde benzer, diğerlerinden farklı alt gruplar. Bölümleme bir sonuç değil, **araçtır**.
@@ -145,3 +145,7 @@ Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların Y
 - **Müşteri acıları**: iş yaparken rahatsız eden ya da kötü gidince başa gelebilecek şeyler (hatalı rapor → işten atılma riski); somutlaştırılıp ölçülmeli. **Müşteri kazanımları**: işleri yaparken elde ettikleri faydalar.
 - Satın alma rolleri: **etkileyenler, tavsiyede bulunanlar, faturayı ödeyenler, karar vericiler, sabotajcılar, son kullanıcılar**.
 - Pazar büyüklüğü örneği (emeklilere ayda 10 TL'lik ürün): Türkiye'de 8 milyon emekli × 10 × 12 → **TMP 960 milyon TL**; Ankara'da 650 bin → **EMP 78 milyon TL**; 3 yılda %20 pay → **İHP 15,6 milyon TL**.
+
+### Video 4.3 — Değer Önerileri ve Gelir Kaynakları (7:37)
+
+Herkese açık bir kopyası yok, bu yüzden özeti çıkarılamadı. Konusu bu notun yukarısındaki değer önerisi ve gelir modelleri kısmıyla aynı.
