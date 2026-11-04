@@ -196,3 +196,22 @@ Sorular PDF s. 119'da başlar (s. 119–121); cevap anahtarı PDF s. 121.
 - **Kurun iki yüzü:** kur artışı döviz cinsinden *girdi* ya da *borç* taşıyanlara zarar, döviz cinsinden *gelir* elde edenlere (turizm, ihracat) yarar sağlar. Hızlı dalgalanma ise herkese zarar verir.
 - **Delphi ve pazar testi:** Delphi, geniş bir kitleye tekrar tekrar görüş sorup görüş birliği arar (fikir tabanlı). Pazar testi, ürünü küçük temsilî bir alanda gerçekten satıp tepkiyi gözler (deneysel).
 - **Büyümeyle ters yönlü talep:** ekonomi büyürken çoğu sektör büyür. Yüksek lisans talebi ise kriz dönemlerinde artar.
+
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 5 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Sektörler arası farklar incelenirken hangileri daha önemlidir? → **Beklenen teknolojik ilerlemeler ve müşterilerin fiyat duyarlılıkları** (ikisi birlikte; tek tek şıklar eksik).
+2. Ekonomik koşulların girişim başarısına etkisi hangi süreçlerle ilgilidir? (kredi ve kaynaklara ulaşım / hammadde maliyeti / fiyat duyarlılığı / talep miktarı) → **Hepsi.**
+3. Hangisi **müşteriler nezdinde** girişimcinin pazarlık gücünü artırabilir? (tedarikçi değiştirme maliyetini artırmak / yüksek kalite / emsalsiz ürün / müşterinin rekabet gücünü artıran ürün) → **Hepsi.**
+4. Hangisi pazarlık gücü **yüksek** müşterilerin izleyeceği yollardan **değildir**? → **Girişimcinin markasını güçlü biçimde talep etmek.** Güçlü müşteri kendi fiyatını, koşulunu ve ürün niteliğini dayatır; markaya talep girişimcinin lehinedir.
+5. Özsermaye dışındaki fonların (borcun) maliyetini ne belirler? → **Faiz oranları.**
+6. Endüstri analizinin beş unsurundan hangisi **değildir**? (dağıtım kanalı elemanları / tedarikçiler / rakipler / çalışanlar / müşteriler) → **Çalışanlar.**
+7. Döviz kurundaki artıştan **olumlu** etkilenebilecek sektör? (inşaat / otomotiv / turizm / havacılık / gıda) → **Turizm** (döviz geliri getiren sektör).
+8. Beş faktör analizindeki beş kritik aktörden hangisi **değildir**? (rakipler / pazar dışı aktörler / ikame ürün üreticileri / tedarikçiler / müşteriler) → **Pazar dışı aktörler.**
+9. Reel milli gelirin, yani toplam üretimin **uzun dönemli artışı**? → **Ekonomik büyüme.**
+10. Ürünü geniş pazarı temsil eden küçük bir alanda (bir süpermarket, küçük bir bölge) deneme amaçlı sunup tepkileri gözlemleyen deneysel araştırma? → **Pazar testleri.** Delphi yöntemi uzman görüşüne dayanır, karıştırma.
+
+## Videolar
+
+LMS'teki üç video tamamlandı: **5.1** Ekonomik Koşullar ve Girişim Süreçleri, **5.2** Endüstri Koşulları ve Rekabet Analizi, **5.3** Talebi ve Müşterileri Anlamak. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
