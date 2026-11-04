@@ -48,8 +48,11 @@ if you can define every bolded term in a week, you know that week.
 **3. Use the CSE 321 statistics for week 7.** Market research is sampling; you have
 already done confidence intervals.
 
-**4. KOSGEB comes up.** [`exams/undated-kosgeb-sinav3/`](exams/undated-kosgeb-sinav3/) holds
-material a previous student collected for an exam on it.
+**4. The exams come from KOSGEB.** The midterm is KOSGEB's *Geleneksel Girişimcilik* training,
+the final its *İleri Girişimcilik* training. [`kosgeb/`](kosgeb/README.md) has the KOSGEB handbook
+(PDF) and a study note for each of its 16 chapters, with video summaries and the book's own
+self-test answers. [`exams/undated-kosgeb-sinav3/`](exams/undated-kosgeb-sinav3/) holds material a
+previous student collected for an exam on it.
 
 **5. Write under your own `## Notes — <Name> (<term>)` heading** at the bottom of each week note.
 
@@ -66,6 +69,7 @@ weeks/NN-*.md    One file per week: the shared plan on top, everyone's notes bel
 exams/           Past exam material (KOSGEB set, undated) and how to add a paper
 resources/       Syllabus PDF
 resources/videos/  Illustrated notes on the 15 course videos, one HTML page each
+kosgeb/          KOSGEB handbook (PDF) and chapter notes in Turkish: geleneksel/ (midterm), ileri/ (final)
 ```
 
 ## Taking notes
@@ -93,6 +97,7 @@ course changed, fix it there so the next person gets the corrected version.
 | Top of `weeks/NN-*.md` (goals, key concepts, practice) | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. |
 | `## Notes — <you>` in a week file | **only you** | Every week. |
 | `course-info.md`, `exams/README.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `kosgeb/` | **anyone** | When KOSGEB changes its training or handbook, or a newly unlocked video needs a summary. |
 | `assignments/<term>-<you>/` | **only you** | Your assignments, projects (the term project), submissions. |
 | `resources/<term>/` | **anyone in that term** | Slides, syllabus and lab sheets the instructor issued that term. |
 | `exams/` | **anyone** | When you get hold of a new paper — blank or answered. Put the writer's surname in the filename (`2026-2027-final-answered-altungoz.pdf`). |
@@ -104,7 +109,7 @@ shared plan — which is the point.
 
 | Term | Instructor | Schedule | Midterm | Final | Notes |
 |------|-----------|----------|---------|-------|-------|
-| Fall 2026-2027 | TBD — fill in during week 1 | TBD | TBD | TBD | Efe — in every week file |
+| Fall 2026-2027 | TBD — fill in during week 1 | Fridays 10:30–12:20, D205 | KOSGEB *Geleneksel Girişimcilik*: questions from its videos and handbook chapters 1–8 ([kosgeb/](kosgeb/README.md)) | KOSGEB *İleri Girişimcilik* (handbook chapters 9–16) | Efe — in every week file |
 | undated | — | — | — | — | KOSGEB exam material collected by a previous student ([exams/undated-kosgeb-sinav3/](exams/undated-kosgeb-sinav3/)) |
 
 ## Contributing
