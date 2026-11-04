@@ -270,3 +270,22 @@ Sorular PDF s. 185'te başlar; cevap anahtarı PDF s. 187'dedir.
 - Satış geliştirme avantajlarında stok: "dağıtım kanalı üyelerinin stoklarını artırma" ve "stokları (işletmenin) azaltma" avantajdır. Düz "stokları arttırma" avantaj değildir (soru 10).
 - Ürün katmanları: marka, ambalaj, kalite ve stil somut üründür. Montaj, garanti, teslimat, kredi koşulları ve satış sonrası servis genişletilmiş üründür. Öz ürün, müşterinin gerçekte aldığı faydadır. Ambalaj 4P'den biri değil, ürün kararıdır.
 - GZFT ile PEST: GZFT'de güçlü/zayıf yönler iç (rakiple karşılaştırılan kaynaklar), fırsat/tehdit dıştır. PEST yalnızca dış çevre faktörlerini (politik, ekonomik, sosyal, teknolojik) inceler; "ürün faktörü" çevre faktörü değildir.
+
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 8 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. **Sosyal sınıf, yaşam tarzı, kişilik**e göre bölümleme? → **Psikografik bölümlendirme.**
+2. Devletin koyduğu kurallar ve değişiklikleri PEST'in hangi başlığında? → **Politik faktörler.**
+3. Hedef kitlenin **ödemeyi kabul edeceği seviye** dikkate alınarak fiyatlama? → **Değer yönlü fiyatlandırma** (karşıtları: maliyet yönlü, rekabet yönlü).
+4. Tüketicide doğacak yeni istek ve ihtiyaçlar, bunları giderecek ürün ve hizmetler, bunları sunacak yeni yöntem ve araçlar: hangileri **pazar fırsatlarının bileşenleridir**? → **I, II ve III** (üçü de).
+5. Pazarlama yönetim sürecinde **planlara uygun faaliyetlerin yürütülmesi**? → **Uygulama** (süreç: analiz → planlama → uygulama → kontrol).
+6. Sürekli ürüne odaklanıp çevresel değişimi görmemek ve zamanla rekabet avantajını kaybetmek? → **Pazarlama miyopluğu** (Kodak örneği).
+7. Rakiplerle karşılaştırıldığında işletmenin **daha iyi olduğu** konular GZFT'de nereye girer? → **Güçlü yönler** (iç faktör; fırsat ve tehdit dıştır).
+8. "Toplumun ihtiyaç ve isteklerini karşılamak için değer taşıyan ürün/hizmet ya da fikirlerin yaratılması, sunulması ve değişimi" → **Pazarlama.**
+9. Ödenen para (maliyet) ile beklenen fayda arasındaki fark? → **Değer.**
+10. Pazarın **yalnızca bir bölümüne** yönelip orada üstünlük kurmak? → **Yoğunlaştırılmış pazarlama** (niş). Mikro pazarlama daha dardır, kişi ya da bölge düzeyinde özelleştirir.
+
+## Videolar
+
+LMS'teki dört video tamamlandı: **8.1** Pazarlama ile İlgili Temel Kavramlar, **8.2** Pazar Fırsatlarının Analizi, Talep Tahminleme, Pazar Bölümleme, **8.3** Hedef Pazar Seçimi ve Pazar Konumlaması, **8.4** Pazarlama Karması ve Pazarlama Faaliyetlerinin Yürütülmesi. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
