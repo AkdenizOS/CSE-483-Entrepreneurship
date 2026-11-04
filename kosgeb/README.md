@@ -16,10 +16,11 @@ geldiği çıkarım; İleri kursu açılınca bölüm listesiyle karşılaştır
 
 1. **Videoyu LMS'te izle.** Bölümler sırayla açılıyor: bir bölümün sonundaki değerlendirme sınavı
    geçilmeden sonraki bölüm kilitli kalıyor.
-2. **Bölüm notunu oku.** Her notta aynı sıra var: *Bir bakışta* → *Kavramlar* → *Ezberlenecek listeler
-   ve sayılar* → *Kendimizi Sınayalım* → *Karıştırılabilecekler* → *Bölüm sonu sınavı (LMS)* →
-   *Videolar*. "Bölüm sonu sınavı" LMS'teki sınavın sorularını doğru cevaplarıyla verir; bölüm
-   çözüldükçe eklenir.
+2. **Bölüm notunu oku.** Her başlık nereden geldiğini söylüyor: **📖 Kitap** (KOSGEB Girişimcilik El
+   Kitabı), **📝 LMS sınavı** (eğitimdeki bölüm sonu sınavının soruları, doğru cevaplarıyla), **🎬 Video**
+   (LMS videolarının transkriptlerinden özet). Sıra: 📖 Bir bakışta → 📖 Kavramlar → 📖 Ezberlenecek
+   listeler ve sayılar → 📖 Kendimizi Sınayalım → 📖 Karıştırılabilecekler → 📝 Bölüm sonu sınavı →
+   🎬 Videolar. Transkriptlerin kendisi yerel olarak `kosgeb/transcripts/` altında durur, repoya girmez.
 3. **Kitabın "Kendimizi Sınayalım" sorularını PDF'ten çöz,** sonra nottaki cevaplarla karşılaştır. Her
    bölümde 10 soru var; notlar kitabın kendi cevap anahtarını kullanıyor ve anahtarın metinle çeliştiği
    yerleri işaretliyor.
@@ -29,19 +30,19 @@ geldiği çıkarım; İleri kursu açılınca bölüm listesiyle karşılaştır
 
 ## Geleneksel Girişimcilik — vize
 
-| # | Bölüm | PDF s. | Video özeti |
+| # | Bölüm | PDF s. | 🎬 Video özeti |
 |---|-------|--------|-------------|
-| 1 | [Girişimcilikte Temel Kavramlar](geleneksel/01-girisimcilikte-temel-kavramlar.md) | 18–47 | 4 video (1.0–1.3) |
+| 1 | [Girişimcilikte Temel Kavramlar](geleneksel/01-girisimcilikte-temel-kavramlar.md) | 18–47 | Giriş + 4 video |
 | 2 | [Girişim Fırsatlarını Görme ve Fikir Yaratma/Geliştirme](geleneksel/02-firsatlar-ve-fikir-gelistirme.md) | 48–61 | 2 video |
 | 3 | [Yapılabilirlik Analizi](geleneksel/03-yapilabilirlik-analizi.md) | 62–83 | 2 video |
-| 4 | [İş Modelleri, Müşteriler, Değer Önerileri ve Gelir Kaynakları](geleneksel/04-is-modelleri-musteriler-deger-onerileri.md) | 84–101 | 2 / 3 video |
-| 5 | [Ekonomi, Endüstri, Rekabet ve Müşteri Analizi](geleneksel/05-ekonomi-endustri-rekabet-musteri-analizi.md) | 102–121 | 3 video, özet yok |
-| 6 | [Hukuki Altyapı](geleneksel/06-hukuki-altyapi.md) | 122–139 | 2 video, özet yok |
-| 7 | [Girişimin Etik Temelleri](geleneksel/07-girisimin-etik-temelleri.md) | 140–155 | 2 video, özet yok |
-| 8 | [Pazarlama İlkeleri ve Yönetimi](geleneksel/08-pazarlama-ilkeleri-ve-yonetimi.md) | 156–187 | 4 video, özet yok |
+| 4 | [İş Modelleri, Müşteriler, Değer Önerileri ve Gelir Kaynakları](geleneksel/04-is-modelleri-musteriler-deger-onerileri.md) | 84–101 | 3 video |
+| 5 | [Ekonomi, Endüstri, Rekabet ve Müşteri Analizi](geleneksel/05-ekonomi-endustri-rekabet-musteri-analizi.md) | 102–121 | 3 video |
+| 6 | [Hukuki Altyapı](geleneksel/06-hukuki-altyapi.md) | 122–139 | 2 video |
+| 7 | [Girişimin Etik Temelleri](geleneksel/07-girisimin-etik-temelleri.md) | 140–155 | 2 video |
+| 8 | [Pazarlama İlkeleri ve Yönetimi](geleneksel/08-pazarlama-ilkeleri-ve-yonetimi.md) | 156–187 | 4 video |
 
-Bölüm 4.3 ve 5–8'in videolarının herkese açık kopyası yok, bu yüzden özetleri yok; o bölümlerde
-kitap notu esas. Her notta LMS'teki bölüm sonu sınavının 10 sorusu doğru cevaplarıyla duruyor.
+Aynı içerik etkileşimli olarak lab'da: [80 LMS sorusu](https://akdenizos.org/lab/cse-483/kosgeb-lms-sinavlari.html)
+ve [23 video özeti](https://akdenizos.org/lab/cse-483/kosgeb-video-ozetleri.html).
 
 ## İleri Girişimcilik — final
 

@@ -2,7 +2,7 @@
 
 PDF s. 360–371 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - İş planı, girişimcinin iş fikrini ana unsurlarıyla geliştirmek ve potansiyel yatırımcılara tanıtmak için hazırladığı özet rapordur. Girişimci için hem harita hem pusula işlevi görür.
 - İş planının iki temel işlevi vardır: girişimcinin iş fikrini veriye dayalı ve bütüncül değerlendirmesi, dış paydaşlara (ortak, yatırımcı, banka, kamu fonu, sektör aktörleri) iş fikrini anlatmak.
@@ -13,7 +13,7 @@ PDF s. 360–371 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversit
 - Yatırımcılar iş fikrinden çok kişilere ve onların itibarına yatırım yapar; bu yüzden ekip bilgisi kritik önemdedir.
 - Finansal planın üç temel tablosu Gelir Tablosu, Bilanço ve Nakit Akış Tablosudur. Projeksiyonlar genelde 2–4 yıl için, ilk 12 ay aylık olarak hazırlanır.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -35,7 +35,7 @@ PDF s. 360–371 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversit
 | Çıkış planı | Girişimcinin işletmeyi belli büyüklük ve kârlılığa ulaştırdıktan sonra hisselerini satarak çıkmayı planlaması. (PDF s. 368) |
 | Ekler | Planın son bölümü: iddiaları kanıtlayan belgeler ve planda verilemeyecek detay bilgiler. (PDF s. 369) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 ### Başarılı iş planlarının 4 özelliği (PDF s. 361)
 1. Kısa ve öz niteliktedir.
@@ -135,7 +135,7 @@ PDF s. 360–371 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversit
 - Kanıt amaçlı ve bilgi amaçlı belgeler ayrı dosyalar halinde sunulur.
 - Son kural: plan içerikte olduğu kadar şekilde de ciddi ve profesyonel görünmelidir.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 369'da başlar; cevap anahtarı PDF s. 371.
 
@@ -150,7 +150,7 @@ Sorular PDF s. 369'da başlar; cevap anahtarı PDF s. 371.
 9. İş planının en önemsiz bölümü hangisi? → **e) Hiçbiri, bütün bölümler önemlidir** — kitaba göre her bölüm yatırımcı ve kreditör için olmazsa olmazdır.
 10. Finansal projeksiyon için en kolay elde edilen bilgi? → **c) Başvuru masrafları** — kitap gerekçe yazmıyor; başvuru ve kayıt ödemeleri baştan bilinen başlangıç kalemidir (liste madde 2), diğer şıklar tahmine dayanır.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - Yönetici özeti planın ilk bölümüdür ama en son yazılır; "ilk yazılır" şıkkı yanlıştır.
 - İş planının 6 bölümü ile yönetici özetinin 6 temel bilgisi farklı listelerdir; ikisi de altı maddelidir.

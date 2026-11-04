@@ -2,7 +2,7 @@
 
 PDF s. 102–121 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Girişimin başarısını en çok belirleyen şey, yakın ve uzak çevre koşullarıdır. Geniş çevre: ekonomik, sosyal ve politik koşullar.
 - Ekonomik koşullar girişimi üç yoldan etkiler: talep, girdi/kaynak maliyetleri ve kaynaklara erişim.
@@ -13,7 +13,7 @@ PDF s. 102–121 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversit
 - Rekabette nihai karar verici müşteridir. Müşteriyi anlamak için iş fikri aşamasında beş temel soru yanıtlanır.
 - Talep tahmini: önce ulaşılabilecek en geniş coğrafi pazar, sonra toplam müşteri sayısı ve ortalama tüketim. Veri kısıtlıysa birden fazla yöntem kullanılıp tutarlılıklarına bakılır.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -43,7 +43,7 @@ PDF s. 102–121 · Yazar: Prof. Dr. Cengiz Yılmaz (Ortadoğu Teknik Üniversit
 | Delphi Yöntemi | Geniş bir kitleye tahmin sorulup sonuçlar aynı kitleye geri bildirilerek görüş birliği oluşana kadar tekrarlanan talep tahmini yöntemi. (PDF s. 118) |
 | Pazar testi | Ürünü geniş pazarı temsil eden küçük bir alanda deneme amaçlı sunup pazar aktörlerinin tepkisini gözleyen deneysel araştırma. (PDF s. 118) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Ekonomik koşulların girişimi etkilediği 3 süreç** (PDF s. 104)
 1. Mal ve hizmetlere karşı oluşacak talep
@@ -173,7 +173,7 @@ Ayrıntılar:
 - Yeni ürünler en sorunlu gruptur. Benzer teknoloji, müşteri ya da ihtiyaca hitap eden geçmiş yeni ürünlerin satışları ve yayılım/kabul hızları yol gösterir. Sorun yöntemden çok veriye erişimdedir.
 - En akıllıca yaklaşım: birden fazla yöntemle tahmin yapıp sonuçların tutarlılığını izlemek.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 119'da başlar (s. 119–121); cevap anahtarı PDF s. 121.
 
@@ -188,7 +188,7 @@ Sorular PDF s. 119'da başlar (s. 119–121); cevap anahtarı PDF s. 121.
 9. Müşteriyi anlamaya yönelik beş temel sorudan biri olmayan hangisidir? → **b) Başka neler alıyorlar?** — Beş soru: kim alıyor/kullanıyor, seçim kriterleri, ne zaman, nereden/nasıl, neden/nasıl kullanıyor.
 10. Kur artışından nispeten olumlu etkilenen sektör hangisidir? → **c) Turizm** — Gelirleri döviz cinsinden olan müşterilere hizmet ettiği için kur artınca daha kârlı ve rekabetçi olur.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Endüstri ve pazar:** Endüstri, benzer ürün ve süreçlerle çalışan *işletmelerin* toplamıdır. Pazar, belirli bölgede benzer ihtiyaçla talep oluşturan *müşterilerin* toplamıdır. Analizi her tanımlı pazar için ayrı yapmak daha doğrudur.
 - **Rakipler ve ikame ürün üreticileri:** Rakip aynı ürünü sunar. İkame üreticisi aynı ihtiyacı başka bir sektörün ürünüyle karşılar (otobüse karşı havayolu, 400 km üzeri).
@@ -197,7 +197,7 @@ Sorular PDF s. 119'da başlar (s. 119–121); cevap anahtarı PDF s. 121.
 - **Delphi ve pazar testi:** Delphi, geniş bir kitleye tekrar tekrar görüş sorup görüş birliği arar (fikir tabanlı). Pazar testi, ürünü küçük temsilî bir alanda gerçekten satıp tepkiyi gözler (deneysel).
 - **Büyümeyle ters yönlü talep:** ekonomi büyürken çoğu sektör büyür. Yüksek lisans talebi ise kriz dönemlerinde artar.
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 5 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -212,6 +212,41 @@ LMS'teki "Bölüm 5 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Reel milli gelirin, yani toplam üretimin **uzun dönemli artışı**? → **Ekonomik büyüme.**
 10. Ürünü geniş pazarı temsil eden küçük bir alanda (bir süpermarket, küçük bir bölge) deneme amaçlı sunup tepkileri gözlemleyen deneysel araştırma? → **Pazar testleri.** Delphi yöntemi uzman görüşüne dayanır, karıştırma.
 
-## Videolar
+## 🎬 Videolar
 
-LMS'teki üç video tamamlandı: **5.1** Ekonomik Koşullar ve Girişim Süreçleri, **5.2** Endüstri Koşulları ve Rekabet Analizi, **5.3** Talebi ve Müşterileri Anlamak. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 5.1 — Ekonomik Koşullar ve Girişim Süreçleri (5:53)
+
+- Başarıda en önemli unsur **yakın ve uzak çevre koşullarıdır**. Geniş çevre: **ekonomik, sosyal, politik** koşullar; ayrıca girişimin içinde bulunduğu **endüstri/sektör**.
+- Ekonomik koşullar başarıyı üç yoldan etkiler: mal ve hizmetlere oluşacak **talep**, **girdi/kaynak maliyetleri**, kaynaklara **erişimin kısıtlanması**. Girişimci **kısa, orta ve uzun vadeli** değişiklikleri analiz edip önlem almalıdır.
+- En önemli ekonomik göstergeler: **büyüme hızı, faiz oranları, döviz kurları, işsizlik oranları, enflasyon oranları**.
+- **Ekonomik büyüme**: toplam üretimin **uzun dönemli artışı**. Kaynağı üretim faktörlerinin **miktarındaki artış**, **verimlilikteki iyileşme** ya da ikisi birlikte. Büyüme dönemlerinde ve hızlı büyüyen sektörlere yatırım akıllıcadır.
+- İstisna: bazı pazarlarda talep büyümeyle **ters yönde** gider. **Yüksek öğretim**, özellikle **yüksek lisans** talebi büyümenin çok düşük olduğu dönemlerde artar; insanlar iş aramak yerine eğitimini geliştirir.
+- **Faiz oranları**, **öz sermaye dışındaki** yatırım fonlarının maliyetini belirler. Yüksek faiz yatırım maliyetini artırıp yatırımı kısıtlar; tüketici kredisi de pahalılaşır, **tüketici talebi** düşer.
+- **Döviz kuru**: TL'nin diğer paralar karşısındaki değişim değeri; **kur yüksek = TL'nin değeri düşük**. Üç etki: (1) **maliyet**: döviz cinsinden girdi maliyeti yüksek olanlar kur artınca zarar görür, iflas bile edebilir; (2) **talep**: döviz cinsinden satan, yurt dışında faaliyet gösteren ya da geliri döviz olan müşteriye hitap edenler kur artınca **daha kârlı ve rekabetçi** olur; (3) **hızlı, dengesiz, tahmin edilemeyen dalgalanmada** herkes maliyet, talep ve fiyat belirlemekte zorlanır.
+- **İş gücü arzı ve işsizlik**: işsizlik yüksek olsa bile **istenen nitelikte eleman** bulmak zor olabilir; kalifiye yerine **vasıfsız** iş gücü ciddi **kalite sorunları** doğurur. Çözüm: **bölge bazında sektör kırılımlarıyla** iş gücü göstergelerini incelemek, girişimin alanında detaylı iş gücü araştırması yapmak.
+
+### Video 5.2 — Endüstri Koşulları ve Rekabet Analizi (9:05)
+
+- **Endüstri**: benzer üretim süreçleri ve ürünlerle faaliyet gösteren işletmelerin toplamı. **Pazar**: tanımlı bir bölgede benzer ihtiyaç ve tercihlerle talep oluşturan **müşterilerin** toplamı. Bir endüstride birçok farklı pazar olabilir.
+- **Rekabet özünde bir öğrenme sürecidir**: rakiplerinden **daha doğru ve daha hızlı öğrenen**, koşullara en iyi uyum sağlayan kazanır.
+- **Michael Porter**'ın **beş faktör analizi**, beş endüstri aktörüyle ilişkiye odaklanır: **müşteriler, rakipler, tedarikçiler, ikame ürün üreticileri, pazara girebilecek yeni firmalar**.
+- **Tedarikçiler**: beklentileri karşılaması, **zamanında ve hatasız teslimat**, **makul fiyat** beklenir. Araştırmalar, tedarikçinin **pazarlık gücü** ile **istenmeyen davranış** eğilimi arasında güçlü ilişki gösterir. Tedarik ilişkisi **bağımlılık** yaratıyorsa fikir yeniden değerlendirilmelidir.
+- **Müşterilerin pazarlık gücü**: müşteri **nihai tüketici, şirket, kamu kurumu, dernek, siyasi parti** olabilir; güçlü müşteri kendi koşul ve fiyatını dayatır, aşırı bağımlılıktan kaçınılmalı. Müşteriye karşı güç kazanmanın yolları: **farklılaştırılmış ve yüksek kaliteli** ürün, müşterinin **tedarikçi değiştirme maliyetini yükseltmek**, müşterinin **değer üretim sürecinde önemli rol oynayan** ürün sunmak.
+- **Rakipler**: rekabet kaliteyi yükseltir ama bunun için ortam **adil** olmalı; **haksız rekabet** yıkıcıdır. **Rekabet avantajının iki unsuru**: müşteri gözünde rakipten **daha yüksek değer** ve **operasyonel süreçlerin etkinliği** (aynı değeri daha ucuz, hızlı ve esnek üretmek). **Akılcı olmayan rekabette** hamleler yalnızca rakibe zarar vermek içindir; kimseye faydası yoktur.
+- **Rekabetin şiddeti** izlenmesi gereken bir başarı faktörüdür; şiddetli rekabet genellikle **fiyat indirimi odaklı** sürece döner. Mevcut niteliği, şiddeti ve gelecekteki rekabet durumu doğru tespit edilmeli.
+- **Yeni girenler**: çoğu girişimci mevcut durumu değerlendirip gelecekteki tehditleri göz ardı eder, bu **büyük bir hatadır**; **büyüyen ve kârlı** sektörler güçlü rakipleri çeker. **İkame ürünler**: **otobüs** şirketleri için en tehlikeli rekabet **hava yolundan** gelir, özellikle fayda/fiyat oranının (değer önerisinin) yüksek olduğu **uzun mesafede**.
+- Diğer unsurlar: **sektörün türü ve durumu**, değişen rekabet dinamikleri, devletin **düzenlemeleri ve mevzuat**, talep tarafındaki gelişmeler; en önemlisi **müşterilerin fiyat değişimine tepkisi**. Özgün veriler çoğu zaman hazır bulunmaz; girişimci sektör aktörleriyle **uzun ve derinlemesine mülakatlar** yapabilir.
+
+### Video 5.3 — Talebi ve Müşterileri Anlamak (7:27)
+
+- Rekabette kimin kazanacağını belirleyen **nihai karar verici müşteridir**. Müşteriyi anlamak için **kritik 5 soru** sorulur.
+- (1) **Kim karar veriyor, kim satın alıyor, kim kullanıyor?** Karar verenler süreci yürütür ve hangi marka/firmanın seçileceğini belirler; satın alma sürecinde **satın alanların** kararı belirleyicidir; **kullananlar** memnuniyet yargısıyla bir sonraki alımı belirler. Roller aynı kişide ya da farklı kişilerde olabilir.
+- (2) **Seçim kriterleri neler?** Genel kriterler (**fiyat, marka**) ya da teknik ve spesifik kriterler (**performans, şekil özellikleri, satın alma kolaylığı**). Herkes aynı kriterle karar vermez; benzer kriterli gruplar bulunup onlara uygun pazarlama geliştirilir.
+- (3) **Ne zaman alıyor, ne zaman kullanıyor?** Yılın ayı, ayın haftası, haftanın günü, günün saati ya da kullanım/ihtiyacın ortaya çıkma zamanı.
+- (4) **Nereden ve nasıl satın alıyor?** Çok sayıda **çevrim içi ve çevrim dışı** kanal: firmanın sitesi, telefon siparişi, perakendeci, kurumsal perakende zinciri, sosyal medya, e-ticaret firmaları. Pek çok üründe **hızlı ve kolay erişim** kritik seçim kriteridir.
+- (5) **Neden satın alıyor ve nasıl kullanıyor?** Yanıtlanmazsa **ciddi pazarlama hataları** yapılır. Kullanım amacı ürünün müşteri için önemini gösterir; nasıl kullanıldığı ürünün **kullanılabilirlik ömrünü (dayanıklılığını)** belirler.
+- **Talep tahmini**: önce ulaşılabilecek **maksimum coğrafi pazar alanı**, sonra oradaki **toplam müşteri sayısı ve ortalama tüketim** → **potansiyel pazar**. Örnek: **diş hekimlerine** cihaz ve malzeme satan bir girişim, Türkiye'deki diş hekimi ve klinik sayısını, ortalama tüketimi ve **bölge-şehir dağılımını** bilmek ister; buna göre potansiyel pazarın ne kadarını hedefleyeceğine karar verir.
+- Yöntemler: **devlet ve özel kurumların** kullanım verileri; geçmiş talep verisi varsa **zaman serisi ve trend analizi**; yoksa **ilişkili ürün gruplarının** talep verisi. Hiç veri yoksa **pazar araştırması şirketleri**, potansiyel müşterilerle görüşüp **satın alma niyetini** ölçmek; o da olmuyorsa **sektör uzmanları, satış elemanları, dağıtım kanalı elemanları**.
+- **Delphi yöntemi** (en güvenilirlerden): geniş bir kitleye tahmin sorulur, sonuçlar aynı kitleye sunulup yeniden sorulur, **görüş birliği** oluşana kadar sürer. **Pazar testi**: ürün, geniş pazarı temsil eden **küçük bir alanda** deneme amaçlı sunulur, tüm pazar aktörlerinin tepkisi gözlenir. Veri kısıtlıysa en akıllısı **birden fazla yöntemle** tahmin yapmaktır.

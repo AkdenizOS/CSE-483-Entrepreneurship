@@ -2,7 +2,7 @@
 
 PDF s. 156–187 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Pazarlama, müşterilerle iki taraf için de yararlı değişim ilişkilerinin yönetimidir; yalnızca satış veya promosyon değildir.
 - Temel kavramlar: ihtiyaç ve istek, tüketici, müşteri ve talep, ürün, değer ve tatmin. Pazarlamanın özü "söz vermek ve verilen sözü tutmak"tır.
@@ -13,7 +13,7 @@ PDF s. 156–187 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 - Taktik düzeyde pazarlama karması (4P): ürün, fiyat, dağıtım, tutundurma.
 - Yürütme: organizasyon, ekip, operasyon (nakit çıkışının en yoğun olduğu aşama) ve kontrol.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -64,7 +64,7 @@ PDF s. 156–187 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 | Halkla ilişkiler (PR) | Ürün veya işletme lehine olumlu imaj oluşturan tutundurma faaliyetleri (Shimp, 2000). (PDF s. 183) |
 | Click to brick | E-ticaretin yanında fiziki mağazacılık yürütülen iş modeli (e-bebek). (PDF s. 157) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Anahtar kavramlar (5):** istek ve ihtiyaç, ürün, fiyat, dağıtım, tutundurma. (PDF s. 156)
 
@@ -247,7 +247,7 @@ PDF s. 156–187 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 - T-Box: 2003, Boyner Holding; Zeynep Selgur koordinatörlüğünde 25 kişilik ekip; sıkıştırılmış küçük ambalaj, para üstü ambalajın içinde. (PDF s. 164)
 - Ritmix: Anadolu Efes, 2004, alkolsüz malt içeceği; iki yıl geliştirme; 4 milyon $ yatırım; sosyal medya paylaşımlarının yaklaşık %70'i tadı beğenmedi; kısa sürede pazardan çekildi. Hata: testlerde beğenilmeyeceğini öngörememek. (PDF s. 168)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 185'te başlar; cevap anahtarı PDF s. 187'dedir.
 
@@ -262,7 +262,7 @@ Sorular PDF s. 185'te başlar; cevap anahtarı PDF s. 187'dedir.
 9. Hangisi pazarlama karması bileşeni değildir? → **e) Ambalaj**. Karma ürün, fiyat, dağıtım ve tutundurmadır; ambalaj ürün kararlarının içindedir.
 10. Hangisi satış geliştirmenin avantajı değildir? → **d) Stokları arttırma**. Listede "stokları azaltma" vardır; artırma yalnızca dağıtım kanalı üyelerinin stokları için geçer.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - Tüketici, müşteri ve talep: tüketici kullanan kişidir, müşteri satın alma kararını verendir, talep satın alma gücüyle desteklenen istektir. İhtiyaç (tatmin edilmemiş dürtü, sınırlı) ile istek (ihtiyacı karşılayan obje, sınırsız) da ayrı kavramlardır. İhtiyacı "zorunlu ürün", isteği "lüks" saymak kitaba göre hatalıdır.
 - Yoğunlaştırılmış ile mikro pazarlama: yoğunlaştırılmış (niş) tek bir pazar bölümüdür. Mikro ("terzi işi") en dar düzeydir, belirli kişi veya bölge için özelleştirir. Farklılaştırılmış ise birden fazla bölüme ayrı karma sunar ve en çok kullanılan stratejidir.
@@ -271,7 +271,7 @@ Sorular PDF s. 185'te başlar; cevap anahtarı PDF s. 187'dedir.
 - Ürün katmanları: marka, ambalaj, kalite ve stil somut üründür. Montaj, garanti, teslimat, kredi koşulları ve satış sonrası servis genişletilmiş üründür. Öz ürün, müşterinin gerçekte aldığı faydadır. Ambalaj 4P'den biri değil, ürün kararıdır.
 - GZFT ile PEST: GZFT'de güçlü/zayıf yönler iç (rakiple karşılaştırılan kaynaklar), fırsat/tehdit dıştır. PEST yalnızca dış çevre faktörlerini (politik, ekonomik, sosyal, teknolojik) inceler; "ürün faktörü" çevre faktörü değildir.
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 8 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -286,6 +286,54 @@ LMS'teki "Bölüm 8 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Ödenen para (maliyet) ile beklenen fayda arasındaki fark? → **Değer.**
 10. Pazarın **yalnızca bir bölümüne** yönelip orada üstünlük kurmak? → **Yoğunlaştırılmış pazarlama** (niş). Mikro pazarlama daha dardır, kişi ya da bölge düzeyinde özelleştirir.
 
-## Videolar
+## 🎬 Videolar
 
-LMS'teki dört video tamamlandı: **8.1** Pazarlama ile İlgili Temel Kavramlar, **8.2** Pazar Fırsatlarının Analizi, Talep Tahminleme, Pazar Bölümleme, **8.3** Hedef Pazar Seçimi ve Pazar Konumlaması, **8.4** Pazarlama Karması ve Pazarlama Faaliyetlerinin Yürütülmesi. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 8.1 — Pazarlama ile İlgili Temel Kavramlar (8:27)
+
+- **Pazarlama**: toplumun ihtiyaç ve isteklerini karşılamak için değer taşıyan ürün veya fikirlerin yaratılması, sunulması ve değişimi. Yalnızca tanıtım ve satış değildir; **ürün geliştirme, tutundurma, dağıtım ve fiyatlamayı** kapsar. Pazarlamayı sadece satış veya promosyon sanmak verimliliği ve kârlılığı düşürür.
+- **İhtiyaç** = tatmin edilmemiş dürtü. "İhtiyaç zorunlu ürün, istek lüks ürün" anlayışı hatalıdır. **Maslow'un 5 basamağı**: fizyolojik (yemek, su, hava) → güvenlik → ait olma ve sevilme → saygı görme → kendini gerçekleştirme. Basamaklar aşamalı ilerler.
+- **İstek** = ihtiyacın kültür, kişilik ve çevreyle bütünleşerek aldığı şekil; ihtiyacı karşılayan objeler. Örnek: susuzluk su, gazoz, kola, ayran veya soda ile giderilebilir.
+- **5 ihtiyaç türü (otomobil almak isteyen Mehmet örneği)**: **görünen** (fiyatın ucuz olması), **gerçek** (yakıt ve bakım gideri az araç), **görünmeyen** (galeride iyi hizmet), **haz veren** (ücretsiz navigasyon ekleyen satıcıdan memnuniyet), **gizli** (akıllı tüketici olarak algılanmak). Yalnızca görünen ihtiyaca odaklanmak fırsat kaçırtır; **pazarlama miyopluğundan** kurtulmak için ihtiyaç-istek farkı bilinmeli.
+- **Tüketici**: ürünü kullanan veya tüketen kişi ya da örgütsel birim (tüzel kişiler dahil). **Müşteri**: satın alma kararını veren kişi veya birim (cep telefonu kullanan tüketicidir, Apple telefonu kullanan Apple'ın müşterisidir). **Talep**: satın alma gücüyle desteklenen istek.
+- **Ürün**: istek ve ihtiyacı karşılayan, ticari değer taşıyan her şey. Fiziksel objelerin yanında **hizmetler, deneyimler, kişiler, mekânlar, organizasyonlar ve fikirler** de üründür.
+- **Değer**: ödenen para ile beklenen fayda arasındaki fark. **Müşteri değer üçlüsü**: **kalite, hizmet, fiyat**; kalite ve hizmet artınca değer algısı artar, fiyat artınca düşer. **Müşteri tatmini**: ürünün beklentiyi karşılama derecesi. Pazarlamanın odağı, anlamlı bir değer önerisiyle müşteriyi tatmin etmektir.
+- **Pazarlama yönetim süreci (4 aşama)**: **analiz → planlama → uygulama ve yönlendirme → kontrol**. Analizde **GZFT** yapılır (güçlü/zayıf yönler, fırsat/tehditler). Planlamada pazar fırsatları analiz edilir, hedefler belirlenir, stratejiler ve pazarlama karması oluşturulur.
+- **Uygulama**: plan doğru uygulanmazsa başarısızlık neredeyse kesindir; doğru kişilerden nitelikli bir ekip kurulmalı. **Kontrol**: finansal ve finansal olmayan sonuçlar hedeflerle karşılaştırılır, düzeltici önlemler bir sonraki plan dönemine taşınır.
+
+### Video 8.2 — Pazar Fırsatlarının Analizi, Talep Tahminleme, Pazar Bölümleme (9:32)
+
+- **Pazar fırsatı**: potansiyel bir alıcı grubunun sorununa **kârlı bir çözüm** üretme faaliyeti; iş fikrinin temelidir. Tespit için durum analizi yapılır, en yaygını **GZFT**: güçlü/zayıf yönler kaynakların rakiplerle karşılaştırılmasından, fırsat/tehditler çevresel değişimlerden çıkar.
+- **3 fırsat kaynağı**: (1) **kısa dönemde kârlı çözüm** (kolay bulunur, büyüme potansiyeli düşük; yağmurda şemsiye satmak), (2) **ürünün niteliklerini iyileştirmek** (rakipte olmayan özellik veya keşfedilmemiş bölüm; **Snapchat**'in Facebook ve Twitter'da olmayan anlık paylaşımı), (3) **yepyeni ürün** (çok cazip ama uzun ve maliyetli Ar-Ge ister).
+- **PEST analizi (4 çevre faktörü)**: **politik** (devletin kuralları ve değişiklikleri), **ekonomik** (döviz, faiz, kredi, enflasyon, büyüme; ham madde, işçilik ücreti, sektör büyümesi, dış ticaret), **sosyal** (nüfusun yaşam ve tüketim eğilimleri), **teknolojik** (tedarik, üretim, dağıtım başta tüm sistemler).
+- **Fırsat değerlendirme 6 kriteri**: müşteri için çekicilik; faydayı uygun maliyetle ulaştırma imkânı; gerekli kaynaklara sahip olma veya ulaşma; rekabet üstünlüğünün derecesi; rakiplerden iyi yapabilme becerisi; yatırım kazancının yeterliliği. Ardından GZFT'nin güçlü-zayıf kısmı belirlenir.
+- **Talep tahminleme**: belirli bir dönemde ne kadar satış yapılabileceğini ölçer; işletmenin ilk dönemlerinde kritiktir. Başlangıçtaki girişimci için **4 yöntem**: pazar testi, yargısal tahmin, tüketici anketi, faktör yöntemi.
+- **Pazar testi**: özellikle mevcutlardan çok farklı yeni ürünler için; ürün laboratuvarda veya tüketim noktasında kullandırılır, kullanım **öncesi, sırası ve sonrası** deneyimler alınır. **Yargısal tahmin**: sektör uzmanlarının satış potansiyeli kestirimleri. **Tüketici anketi**: mevcut/potansiyel alıcılara dönem içinde ne kadar alacakları sorulur.
+- **Faktör yöntemi**: alıcısı çok olan tüketim ürünlerinde; satışı etkileyen bir veya birden çok değişken kullanılır. **Çocuk bezi örneği**: bebek sayısı, doğum oranı, ortalama kullanım miktarı. Tek yöntem hatalı sonuç verebilir; veriye dayalı ve **birden fazla yöntem** kullanılmalı.
+- **Pazar bölümleme (4 tür)**: **coğrafik** (ülke, bölge, şehir, yerleşim, iklim; **McDonald's**'ın ürünlerini yerelleştirmesi), **demografik** (nüfus yapısı; kozmetik/tekstilde cinsiyet ve gelir), **psikografik** (sosyal sınıf, yaşam tarzı, kişilik; yenilikleri kolay benimseyenler), **alıcı davranışı** (fayda, kullanım derecesi, marka bağlılığı).
+- Bölümleme **4 kriteri** sağladığı ölçüde başarılıdır: **ölçülebilirlik, ulaşılabilirlik, büyüklük, farklılaştırılabilirlik**.
+
+### Video 8.3 — Hedef Pazar Seçimi ve Pazar Konumlaması (11:23)
+
+- **Hedef pazar**: firmanın hizmet etmeyi planladığı, ortak ihtiyacı veya benzer özellikleri olan tüketiciler. **4 strateji**: farklılaştırılmamış, farklılaştırılmış, yoğunlaştırılmış, mikro pazarlama.
+- **Farklılaştırılmamış**: hiçbir farklılaştırma yok; ortak ihtiyaçlara yönelik ürünlerde kullanışlı. **Farklılaştırılmış**: birden çok bölüme uygun karma; tatmini ve rekabet avantajını artırdığı için **en çok kullanılan** strateji. **Yoğunlaştırılmış**: tek bölüm; kaynakları sınırlı küçük işletmeler tercih eder. **Mikro**: en dar bölüm, belirli kişi veya bölge; **terzi işi pazarlama**.
+- **Konumlama**: işletmenin/markanın ne olduğunu, ne işe yaradığını, ne zaman kullanılacağını anlatır. Önce rakip konumları belirlenir: **doğrudan rakip** aynı ihtiyacı karşılayan ürün (**Coca-Cola – Pepsi**), **dolaylı rakip** aynı ihtiyacı farklı ürünle karşılayan (**Coca-Cola – Dimes** meyve suyu). Büyük işletmeler pazar araştırmasına dayalı **konumlama haritaları** kullanır; ölçütler performans, fayda, rakibe üstünlük, fiyat avantajı.
+- **2 konumlama stratejisi**: rakibin olmadığı konum (pazar yeterince büyükse en iyisi) veya rakiplerin bulunduğu konumda **daha iyi değer önerisi**.
+- **Pazarlama karması**: tüketici tepkisini belirleyen değişkenler: **ürün, fiyat, dağıtım, tutundurma**; önce ürün kararları verilir. **3 ürün düzeyi**: **öz ürün** (hangi sorunu çözdüğü, tüketici için anlamı; iPhone iletişimden çok eğlence, prestij, yaşam tarzı aracı), **somut ürün** (marka, ambalaj tasarımı, kalite düzeyi, tasarım), **genişletilmiş ürün** (teslimat, montaj, satış sonrası servis, garanti).
+- **Ürün kararları**: kalite düzeyi (bölüm beklentisine göre düşük, orta, yüksek); markalama (marka adı en kalıcı ve en görünür karar); ambalajın **3 fonksiyonu**: **koruma, kolaylık, iletişim**.
+- **Fiyatlama**: değer algısı, maliyet ve rakipler dikkate alınır. **3 yöntem**: değer, maliyet, rekabet yönlü. **Değer yönlü**: müşterinin ödemeyi kabul edeceği seviye; referans algılanan değerdir. Önemli bir yenilik veya fayda varsa uygulanır (**iPhone**: rakipte olmayan özellikler ve prestij).
+- **Maliyet yönlü**: maliyetin ve rekabetin yüksek olduğu sektörlerde. **Sabit maliyet** miktarla değişmez (kısa dönemde işçilik, kira); **değişken maliyet** değişir (ham madde, enerji). **Maliyet artı fiyatlama** örneği (ayakkabı): birim değişken **40 TL**, sabit **350.000 TL**, **20.000 adet** → 40 + 17,5 = **57,5 TL** birim maliyet; **%30** marjla 57,5 / 0,70 = **82,14 TL** satış fiyatı, birim kâr yaklaşık **25 TL**.
+- **Rekabet yönlü**: ürün rakipten belirgin farklı değilse fiyat rakiplerin çok üstüne çıkamaz. Rekabetçi fiyat **maliyetin gösterdiği taban** ile **tüketici değerinin gösterdiği tavan** arasında oluşur; rakip fiyat politikaları, firmanın amaç ve stratejileri ve talebin yapısına göre değişir.
+
+### Video 8.4 — Pazarlama Karması ve Pazarlama Faaliyetlerinin Yürütülmesi (8:06)
+
+- Bu video karmanın **dağıtım** ve **tutundurma** bileşenlerine odaklanır. Dağıtım, ürünlerin alıcıya ulaştırılmasıdır; ilk adım **kanal tasarımı**: üretici ile tüketici arasında kaç katman ve kaç farklı kanal olacağı.
+- **Kanal katmanları**: **sıfır katman** (aracı yok; web sitesinden doğrudan satış), **bir katman** (tek aracı, çoğunlukla perakendeci), **iki katman** (toptancı ve perakendeci). Katman sayısı faaliyet gösterilecek bölge sayısına göre belirlenir, sonra toptancı, bayi ve perakendeciler seçilir.
+- **3 dağıtım politikası**: **yoğun** (olabildiğince çok satış noktası; gıda gibi sık tüketilenler), **tercihli** (sınırlı bölgede sınırlı aracı; fotoğraf makinesi, saat, klima), **özel** (tek aracı, aracıya tekel avantajı; **Pupa**, Apple'ın Türkiye resmi bayisi).
+- **Tutundurma**: ürünün hedef kitlece kabulü için ikna edici iletişim; amaç bilgi vermek, hatırlatmak, ikna etmek. **4 etkinlik**: **reklam, satış geliştirme, kişisel satış, halkla ilişkiler**.
+- **Reklam**: en bilinen unsur; **bedel karşılığı, yüz yüze olmayan** bilgi aktarımı, geniş kitleye ulaşır. Kararda hedef kitlenin alanı, ürün türü, rakip faaliyetleri, pazarlama amaçları gözetilir. **3 fonksiyon**: **bilgi verme, hatırlatma, ikna etme**; ardından bütçe, mesaj planlaması ve mesaj tasarımı.
+- **Satış geliştirme (promosyon)**: kısa sürede satış artırma; diğerlerinden farklı olarak **doğrudan satış artırıcı** etkisi var. Tüketiciye yönelik: ürün dağıtımı, kupon, yarışma, çekiliş. Aracıya yönelik: belli satış hacmine ulaşınca bedava ürün. Çok sık indirim alışkanlık yapar, satış değil **maliyet artar**; belirli aralıklarla ve maliyet-fayda dengesi gözetilerek yapılmalı.
+- **Kişisel satış**: satış işletmenin en öncelikli görevidir; en önemli unsur **satış elemanıdır** (müşteri bulma, bilgi aktarma, pazarlık, teknik yardım, satış, satış sonrası memnuniyet takibi). Satış görevleri **3 grup**: **sipariş alma, siparişi teslim etme, destek hizmetleri**.
+- **Halkla ilişkiler**: ürün veya işletme lehine **olumlu imaj**; kamuoyu gruplarıyla ilişki geliştirme, iyi işletme imajı, olumsuz olaylara önlem. Pazarlama amaçlarını kolaylaştırır, itibarı artırır.
+- **Uygulama 3 aşama**: (1) **organizasyonun belirlenmesi**, (2) **ekibin oluşturulması** (organizasyon şemasındaki görevlere istihdam), (3) **operasyon**: nakit çıkışı en yüksek aşama (maaş, mağaza kirası, reklam-tanıtım, dağıtım araçları). Sonra **kontrol**: işletme büyüdükçe önemi artar; maliyet ve satış hedefleri için **günlük, haftalık, aylık, yıllık** hedef ve kontrol çizelgeleri.

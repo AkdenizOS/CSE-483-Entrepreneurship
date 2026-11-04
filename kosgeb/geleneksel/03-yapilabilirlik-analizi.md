@@ -2,7 +2,7 @@
 
 PDF s. 62–83 · Yazar: Dr. Öğr. Üyesi Oguzhan Aygören (Boğaziçi Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Yapılabilirlik analizi, fikir aşamasındaki inanç temelli girişimi veriye, veriyi de uygulamaya çevirmenin aracıdır. İki eksende yapılır: kaynaklar ve iş fikri uyumu, ardından yatırım çekiciliği (pazar).
 - İyi girişimci riski sevmez; riskin farkındadır, onu yönetir ve en aza indirir. Bunun karşıtı "cahil cesareti"dir.
@@ -13,7 +13,7 @@ PDF s. 62–83 · Yazar: Dr. Öğr. Üyesi Oguzhan Aygören (Boğaziçi Ünivers
 - Yeniliklerin Benimsenmesi Teorisi: ilk müşteriler (yenilikçiler, erken benimseyenler) çoğunluktan farklıdır; aralarında küçük ve büyük uçurum vardır.
 - İhtiyaç, istek ve talep farklıdır; dört ihtiyaç tipi içinde yenilikçi girişimciyi en çok ilgilendiren gizli ihtiyaçlardır. Trendler heves ve modadan ayrılmalı; teknoloji katlamalı ilerler (Moore Kanunu).
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -56,7 +56,7 @@ PDF s. 62–83 · Yazar: Dr. Öğr. Üyesi Oguzhan Aygören (Boğaziçi Ünivers
 | Doğrusal vs katlamalı ilerleme | Doğrusal: bugünün varsayımlarıyla öngörülen ilerleme. Katlamalı: birçok faktörün birbirini tetiklemesiyle oluşan sinerjik ilerleme. (PDF s. 79) |
 | Katlamalı gelişim sürpriz faktörü | Beklenen doğrusal gelişim ile gerçekleşen katlamalı gelişim arasındaki fark. (PDF s. 79–80) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Bölüm yapısı ve modeller**
 - Başarısızlık nedenleri (Giriş): iş fikrinin veya ekibin yetersizliği, rekabetçi olmayan iş modeli, sermaye eksikliği, zamanlama hatası. (PDF s. 65)
@@ -95,7 +95,7 @@ PDF s. 62–83 · Yazar: Dr. Öğr. Üyesi Oguzhan Aygören (Boğaziçi Ünivers
 - Tesla Model 3: diğer elektrikli arabaların yarısından az fiyat iddiası, bir milyona yakın ön sipariş. (PDF s. 77)
 - Turkcell: Murat Vargı 1989'da İsviçre'de cep telefonuyla tanıştı; Koç, Sabancı, Özyeğin ile görüştü; fırsatı Mehmet Emin Karamehmet gördü. Diğerleri baz istasyonu yatırımı ve yetersiz abone endişesiyle kaçırdı. (PDF s. 78)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 1. İş fikrinin başarısız olma sebeplerinden hangisi değildir? → **e) Kaynak eksikliğine rağmen harekete geçmek** — kaynak eksikliği mazeret değildir; diğer şıklar başarısızlık nedenidir.
 2. Hangisi yapılabilirlik analizinin bileşeni değildir? → **c) Ekip üyelerinin hobilerine zaman ayırması** — analiz pazar ihtiyacı/talebi, kurucu geçmişi ve yatırım geri dönüşünü kapsar.
@@ -110,7 +110,7 @@ PDF s. 62–83 · Yazar: Dr. Öğr. Üyesi Oguzhan Aygören (Boğaziçi Ünivers
 
 Sorular PDF s. 81'de başlar; cevap anahtarı PDF s. 83.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - TMP / EMP / İHP: TMP ideal en büyük evren (ulaşılamaz), EMP firmanın kaynaklarıyla erişebileceği kesim, İHP ilk müşteri grubu. "İlk hedeflenecek" sorusunun cevabı İHP'dir.
 - Küçük uçurum (yenilikçiler–erken benimseyenler) ile büyük uçurum (erken benimseyenler–erken çoğunluk). Vizyonerler "sürünün önünde gider", pragmatistler "sürüyü takip eder", neme lazımcılar "gerekince hareket eder", kuşkucular "imkânı yok" der.
@@ -120,7 +120,7 @@ Sorular PDF s. 81'de başlar; cevap anahtarı PDF s. 83.
 - Başabaş noktası (gelirin yatırılan parayı çıkardığı an: hangi ay, kaç kişi, ne ciro) ile geri ödeme süresi (net kârın başlangıç sermayesini karşılama süresi) ve değerleme (şirketin kaça satılabileceği).
 
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 3 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -135,7 +135,7 @@ LMS'teki "Bölüm 3 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. "Müşteriler ürünü değil faydayı satın alır; bunu göremeyen firmalar pazarlama körlüğü yaşar" sözü kimin? (Bagozzi / Levy / Kotler / Porter / Levitt) → **Theodore Levitt.**
 10. Hangisi iş fikrinin başarısız olma sebeplerinden biri **değildir**? (kaynak eksikliğine rağmen harekete geçmek / gereğinden fazla sermaye yatırmak / hedef kitleyi çok geniş tutmak / rekabetçi iş modeli kuramamak / doğru ekibi kuramamak) → **Kaynak eksikliğine rağmen harekete geçmek.** Finansal sermaye eksikliği bir işin hayata geçmesine engel olmamalı; doğru ekip yatırım almadan da başarabilir.
 
-## Videolar
+## 🎬 Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 

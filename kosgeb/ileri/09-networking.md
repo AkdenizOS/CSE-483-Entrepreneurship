@@ -2,7 +2,7 @@
 
 PDF s. 188–219 · Yazar: Ertuğrul Belen (Business Networking Akademi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Networking, Belen'e (2014) göre "Tanışma, Tanıştırma ve Tanınma Sanatı™"dır: başarı için güçlü ve güven odaklı bir çevre kurmak. Türkçedeki en yakın karşılığı **imece**dir.
 - Networking girişimci için bir seçenek değil, geliştirilmesi gereken bir **yetkinlik**tir (Belen ve Demirkaya, 2013). Yeni iş kurma ve geliştirmede %70 temel başarı etkenidir.
@@ -13,7 +13,7 @@ PDF s. 188–219 · Yazar: Ertuğrul Belen (Business Networking Akademi)
 - Girişimci iş kurarken ve geliştirirken **10 adım** izler: ihtiyacı belirlemekten sosyal ağları kullanmaya kadar.
 - Paydaşlar **3 networking halkası**nda toplanır. En kritik paydaş kararı **ortak seçimi**dir.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -46,7 +46,7 @@ PDF s. 188–219 · Yazar: Ertuğrul Belen (Business Networking Akademi)
 | Mentor | Girişimciye dışardan gözle bakan uzman akıl hocası; geri bildirimi objektif değerlendirilir, karar girişimcinindir (PDF s. 213). |
 | Dış kaynak | Girişimin dışında konumlanan ortak hizmet merkezleri (muhasebe, halkla ilişkiler vb.) (PDF s. 213). |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 ### Sayılar ve araştırmalar
 
@@ -212,7 +212,7 @@ Tanınmanın avantajları: fırsatlardan ilk haberdar olmak, yatırımcı ve fin
 - **Seda** (kurumsal çiçekçi): ziyaret sonrası LinkedIn'den teşekkür mesajıyla ekledi, şirket profillerini takip etti, başarıları çiçekle tebrik etti (PDF s. 211).
 - **Serkan** (kravat e-ticaret): paydaşlarını belirlemeden başladı; arkadaşları sektörü bilmiyordu, ailesi kızdı, müşterilerin gömlek-kravat-yaka mendili takımı istediğini geç anladı; bir yılda bütçesi bitti (PDF s. 214).
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 216'da başlar; cevap anahtarı PDF s. 218.
 
@@ -227,7 +227,7 @@ Sorular PDF s. 216'da başlar; cevap anahtarı PDF s. 218.
 9. Girişimcinin çevresinde kaç networking halkası vardır? → **b) 3** — birinci, ikinci ve üçüncü halka.
 10. Girişimin geleceğini en çok etkileyen paydaş hangisidir? → **d) Ortak(lar)** — ortak seçimi tüm paydaşlar arasındaki en kritik karardır.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Aktif tanınma ve dolaylı tanınma**: aktif olan bilinçli çabadır (blog, konuşma, kitap); dolaylı olan iyi ilişkilerin sonucu kendiliğinden gelir.
 - **%30 ve %60**: ortak tanıdık telefon/e-postayla tanıştırırsa %30, ilk görüşmeye bizzat katılırsa %60 işbirliği artışı.

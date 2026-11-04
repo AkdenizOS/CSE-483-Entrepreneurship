@@ -2,7 +2,7 @@
 
 PDF s. 48–61 · Yazar: Serkan Ünsal (Startups Watch)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Bölüm dört temel kavramı ayırır: fikir (tohum), fırsat (uygun ortam), problem (müşterinin yaşadığı sıkıntı) ve ihtiyaç (eksikliği hissedilen şey).
 - Fikrin orijinal olması şart değildir. Önemli olan, fikri doğru zamanda, doğru yerde ve doğru biçimde hayata geçirip kalıcı kılmaktır.
@@ -12,7 +12,7 @@ PDF s. 48–61 · Yazar: Serkan Ünsal (Startups Watch)
 - İnovasyon işe yarar yeniliktir. İş modelinden müşteri deneyimine kadar işin her öğesinde yapılabilir. Üç ana kaynağı müşteri, teknoloji ve pazar trendleridir.
 - Fırsat bulmak için dört trend izlenir: pazar, jenerasyonlar, regülasyonlar ve teknolojik gelişmeler.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -31,7 +31,7 @@ PDF s. 48–61 · Yazar: Serkan Ünsal (Startups Watch)
 | Pazaryeri | Satıcıların üye olup kendi dükkânını açtığı e-ticaret platformu. Küçük işletmelerin doğmasına fırsat yarattı. (PDF s. 50) |
 | Bibliyometri | Akademik alıntıları inceleyen bilim dalı. Google'ın PageRank fikrine ilham verdi. (PDF s. 52) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Fikir, fırsat, problem, ihtiyaç** (PDF s. 49–53)
 - **Fırsatın 4 koşulu**: uygun pazar şartları, ürünü yapacak ortam, ürünü yapacak kişiler için doğru zaman, ürünü yapacak finansal destek. Tohum benzetmesindeki karşılıkları uygun hava, iyi toprak ve su kaynaklarıdır.
@@ -95,7 +95,7 @@ PDF s. 48–61 · Yazar: Serkan Ünsal (Startups Watch)
 4. **Teknolojik gelişmeleri takip etme**: üç boyutlu yazıcı, yapay zekâ, artırılmış gerçeklik, nanoteknoloji. 3D yazıcıyla kırık parçayı birkaç saatte basmak mümkün. Mobil oyun pazarı 2018'de **70 milyar $**'ı aşıyor.
 - Teknolojik gelişmeyi problemle buluşturmak girişimcinin görevidir. Örnekler: kalp atışını ölçen akıllı saat; nesne tanıyan telefonla görme engelliler için uygulama, oyun veya yol uyarı uygulaması. (PDF s. 57)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 58'de başlar. Cevap anahtarı PDF s. 60'tadır.
 
@@ -110,7 +110,7 @@ Sorular PDF s. 58'de başlar. Cevap anahtarı PDF s. 60'tadır.
 9. Hangisi doğrudur? → **d) Girişimcilikte ilk adım böyle bir ihtiyaç ve pazar olup olmadığını test etmektir** — Müşteri keşfi ve fikri test etme ilkesi.
 10. Hangisi teknolojinin gelişmesiyle ortaya çıkmış bir inovasyondur? → **a) 3 boyutlu yazıcılar** — Teknolojik gelişmeleri takip etme başlığındaki örnek.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Fikir, fırsat, problem ve ihtiyaç**: Fikir tohumdur. Fırsat tohumun filizlenmesini sağlayan ortamdır. Problem müşterinin yaşadığı sıkıntıdır. İhtiyaç eksikliği hissedilen şeydir. "İyi bir fikir bulmak" ya da "iyi bir ortak bulmak" fırsat sayılmaz. Maliyetlerin düşmesi gibi çevre koşulları fırsattır (Soru 8).
 - **İnovasyon kaynağı ile inovasyon alanı**: Müşteri, teknoloji ve pazar trendleri kaynaktır. İş modeli, organizasyonel, iş ağı, ürün performansı, satış kanalı, müşteri deneyimi ve ürün sunumu ise inovasyonun yapıldığı alandır.
@@ -120,7 +120,7 @@ Sorular PDF s. 58'de başlar. Cevap anahtarı PDF s. 60'tadır.
 - **Müşteri odaklı ile hibrit inovasyon**: Müşteri odaklı inovasyon "daha önde" görünür. En uzun vadede işe yarayan ise kopyalanması zor hibrit inovasyondur (iPhone).
 
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 2 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -135,7 +135,7 @@ LMS'teki "Bölüm 2 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Hangisi girişimci için bir **fırsat** olabilir? (iyi ortak / güneş enerjisi cihaz maliyetlerinin düşmesi / iyi girişim adı / iyi bir ihtiyaç görmek / iyi mekân) → **Güneş enerjisi cihaz maliyetlerinin düşmesi.** Fırsat **çevresel** faktörlerin (teknoloji, pazar, yasa) yarattığı ortamdır; ortak, ad ya da mekân bulmak girişimcinin kendi kaynağıdır.
 10. Müşteri keşfinde ne **yapılmalı**? → **Müşterinin yaşadıklarını inceleyip hayatının hangi kısmında ürününüzü kullanabileceğini keşfetmek.** Yanlışlar: sürekli siz konuşmak, söylediklerine yaptıklarından çok bakmak, cevabını bildiğiniz soruları sormak, "kullanır mısınız?" diye sormak.
 
-## Videolar
+## 🎬 Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 

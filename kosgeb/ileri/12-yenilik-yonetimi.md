@@ -2,7 +2,7 @@
 
 PDF s. 272–296 · Yazar: Prof. Dr. Cevahir Uzkurt (KOSGEB)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Yenilik, sürdürülebilir büyümenin ve toplumsal refahın temel itici güçlerinden biridir. Bilgi temelli bir süreçtir. Bir icat ancak ekonomik ve toplumsal fayda sağlayacak şekilde ticarileştiğinde yenilik sayılır (s. 273–274).
 - Yenilik tek seferlik bir olay değil, bir süreçtir. Fayda yaratmayan farklılık yenilik sayılmaz. Yenilik yalnızca Ar-Ge biriminin işi de değildir, tüm fonksiyonların bütünleşmesini ister (s. 275–276).
@@ -13,7 +13,7 @@ PDF s. 272–296 · Yazar: Prof. Dr. Cevahir Uzkurt (KOSGEB)
 - Yenilik kaynakları üç gruptur: dışsal, içsel, durumsal. Bilginin işletmeye aktarımı (transfer) dört faktöre bağlıdır (s. 287–290).
 - Yenilik süreci stratejileri: yakalama, sürdürme, ilerleme. Yeni ürün stratejileri: lider, takipçi, maliyet minimizasyonu, pazar bölümleme (s. 291–292).
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -47,7 +47,7 @@ PDF s. 272–296 · Yazar: Prof. Dr. Cevahir Uzkurt (KOSGEB)
 | Hazmetme kapasitesi | İşletmenin yeni bilgiyi değerlendirip ürüne, hizmete ya da sürece dönüştürebilecek yetenek ve altyapıya sahip olması. (PDF s. 290) |
 | Yenilik stratejileri | Rekabet gücünü artırmak ve sürdürmek için yenilik sürecinde ve çıkan yeni ürün için izlenen yol. (PDF s. 291) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Yeniliğin ülke ekonomisine üç temel katkısı:** sürdürülebilir ekonomik büyüme, sosyal kalkınma ve refah düzeyi, rekabet gücü. (s. 274)
 
@@ -178,7 +178,7 @@ PDF s. 272–296 · Yazar: Prof. Dr. Cevahir Uzkurt (KOSGEB)
 - *BKM (28 yıllık dönüşüm):* 1990 kuruluş, 1991 ilk POS, 1998 taksitli ödeme, 2006 ilk temassız kredi kartı, 2007 Chip&PIN, 2010 yakın alan iletişimi, 2012 BKM Express (ilk dijital cüzdan), 2016 TROY. Aşamalı yeniliğe örnektir.
 - *Pay By Touch ("Dokunarak Öde"):* parmak iziyle alışveriş sistemi; dolandırıcılık iddiaları, kötü kriz yönetimi ve rakip satın almaya yapılan harcamalar yüzünden 2007'de iflas etti.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 294'te başlar, cevap anahtarı PDF s. 296'dadır.
 
@@ -193,7 +193,7 @@ Sorular PDF s. 294'te başlar, cevap anahtarı PDF s. 296'dadır.
 9. Hangisi yeniliğin içsel kaynağıdır? → **a) Pazarlama birimi** — işletme fonksiyonları ve çalışanlar içseldir. Müşteri, üniversite, topluluk ve tedarikçi dışsaldır.
 10. Hangi stratejide başkalarının yeniliği yerine öncü yenilik ortaya koymaya yönelme vardır? → **c) İlerleme stratejisi** — en zor strateji, öncü işletmelerin stratejisidir. Yakalama başkasının yeniliğini taklit eder.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Radikal ile aşamalı yenilik:** radikal yenilik "daha önce olmayan"dır, genelde küçük firmalardan çıkar ve belirsizliği artırır (TV, İnternet). Aşamalı yenilik mevcut olanın kademeli iyileştirilmesidir, daha kolay ve ucuzdur, büyük firmalar tercih eder (LCD, HD). Yaratıcı yıkım Schumpeter'indir (1934) ve aynı zamanda bir **durumsal** kaynaktır.
 - **Yenilik yönetimi aşamaları:** ikna aşamasında tutum oluşur (lehte/aleyhte). Benimseme/reddetme **karar** aşamasındadır. Davranış değişikliği **uygulama**da başlar. Pekiştirme ya da vazgeçme **onaylama**dadır.

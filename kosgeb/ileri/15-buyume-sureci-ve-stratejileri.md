@@ -2,7 +2,7 @@
 
 PDF s. 338–359 · Yazar: Prof. Dr. Hande Sinem Ergun (Marmara Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Büyüme, firmanın boyutunun belli bir zaman içinde nicelik veya nitelik olarak artmasıdır. İki yolu vardır: içeriden (organik) büyüme ve başka firmalarla birleşerek dış büyüme.
 - Yeni ve küçük işletmenin büyümesini altı faktör etkiler: girişimcinin özellikleri, kaynaklar, coğrafi konum, sektörel unsurlar, örgüt yapısı ve sistemleri, strateji. Bunların en önemlisi strateji olarak gösterilir.
@@ -13,7 +13,7 @@ PDF s. 338–359 · Yazar: Prof. Dr. Hande Sinem Ergun (Marmara Üniversitesi)
 - İşletme dışı büyüme yolları: dış kaynak kullanımı, stratejik işbirlikleri (ortak girişim, lisans, değer zinciri anlaşması vb.), birleşme ve satın alma, uluslararası pazarlara açılma, franchising.
 - Uluslararasılaşmaya ihracatla başlamak yeni ve küçük işletme için en az riskli seçenektir. Doğrudan yatırım en maliyetli ve riskli olanıdır.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -71,7 +71,7 @@ PDF s. 338–359 · Yazar: Prof. Dr. Hande Sinem Ergun (Marmara Üniversitesi)
 | İmtiyaz veren | Kalitesi kanıtlanmış başarılı marka, ürün, hizmet veya bilgi birikimine sahip olup satış, dağıtım veya işletme hakkını bedel karşılığı veren taraf. (PDF s. 353) |
 | İmtiyaz alan | İmtiyaz verenin markasını, bilgi birikimini, iş yöntemlerini, sistemini ve fikri mülkiyet haklarını bedel karşılığı kullanan taraf. (PDF s. 353) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 ### Büyüme türleri (PDF s. 340)
 1. Organik (iç) büyüme
@@ -209,7 +209,7 @@ Krizlerin sırası: liderlik → otonomi → kontrol → bürokrasi.
 - Gram Games (PDF s. 343): 2012 İstanbul; 2018'de Zynga 250 milyon dolar nakit ve ek ödemeyle satın aldı. Ders: çalışanı öne koyan şirket kültürü.
 - İncir.com (PDF s. 345): 2012'de kuruldu; 2014'te %2.500 büyüdü; 2015'te 57 milyon dolar değerleme; 2017 hedefi 50 bin mağaza; 2016'da nakit sıkıntısıyla kapandı. Ders: büyümeyi ve nakit devamlılığını yönetmek.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 354'te başlar; cevap anahtarı PDF s. 356.
 
@@ -224,7 +224,7 @@ Sorular PDF s. 354'te başlar; cevap anahtarı PDF s. 356.
 9. Kimliklerini koruyan bağımsız işletmelerin kurduğu, mülkiyet ve risk paylaşan bağımsız işletme? → **c) Ortak girişim** — Lynch (1989) joint venture tanımı.
 10. Franchisingin sağlıklı işlemesi için dikkat edilecek unsurlardan hangisi değildir? → **e) Bireysel çıkarını işbirliğinden önce düşünmek** — kitap tersini söyler: işbirliği bireysel faaliyetten önemli görülmeli.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - Greiner'de aşama ile kriz adları farklıdır: yönelme aşamasının krizi otonomi krizi, yetki devri aşamasının krizi kontrol krizi, koordinasyon aşamasının krizi bürokrasi krizidir. "İnovasyon krizi" ve "yönetim krizi" modelde yoktur; inovasyonun azalması bürokrasi krizinin ilk belirtisidir.
 - Girişimcilik yönelimi (inovasyon, risk alma, proaktiflik) ile Porter'ın rekabet stratejileri (maliyet liderliği, farklılaştırma, odaklanma) şıklarda karıştırılır.

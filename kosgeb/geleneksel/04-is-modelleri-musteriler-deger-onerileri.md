@@ -2,7 +2,7 @@
 
 PDF s. 84–101 · Yazar: Doç. Dr. Adil Oran (Orta Doğu Teknik Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Bölümün amacı Ürün/Pazar uyumunu yakalama ihtimalini artırmaktır; iş modelleri ham fikri kâğıda dökmeye, değerlendirmeye ve iyileştirmeye yardım eder.
 - Girişimcilik zorunluluk temelli ve fırsat temelli olarak ikiye ayrılır; değer ve istihdam yaratanlar çoğunlukla fırsat temelli, yüksek büyüme potansiyelli girişimcilerdir.
@@ -12,7 +12,7 @@ PDF s. 84–101 · Yazar: Doç. Dr. Adil Oran (Orta Doğu Teknik Üniversitesi)
 - Değer önerisi ürünün kendisi değil, müşteriye sağladığı faydadır (matkap değil duvardaki delik).
 - 10 gelir modeli anlatılır: satış, kiralama, kullandıkça öde, abonelik, bedelsiz ve primli, SaaS, doğrudan satış, reklam destekli, pazar yeri, yem ve olta.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -54,7 +54,7 @@ PDF s. 84–101 · Yazar: Doç. Dr. Adil Oran (Orta Doğu Teknik Üniversitesi)
 | Değer önerisi | Müşteri için yaratılan değer: hangi sorunun çözüldüğü, hangi acının dindirildiği, hangi kazanımın sağlandığı; ürün demeti bunun yalnızca bir parçası. (PDF s. 94) |
 | Gelir modeli | Bir iş fikrinden nasıl para kazanılacağının tarifi; bazen iş modelinin tamamı gibi görülür. (PDF s. 95) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 - KOBİ'lerin Türkiye'deki payı (TÜİK, 2016): şirket sayısının %99,8'i, istihdamın yaklaşık 3/4'ü, satışların (cironun) yaklaşık 2/3'ü, ihracatın yarıdan fazlası. (PDF s. 85)
 - Küçük yeni şirketlerin net istihdamdaki payı ülkeye göre toplamın yarısı ile neredeyse tamamı arasında. (PDF s. 85)
@@ -95,7 +95,7 @@ PDF s. 84–101 · Yazar: Doç. Dr. Adil Oran (Orta Doğu Teknik Üniversitesi)
   9. Pazar yeri: alıcı ve satıcıyı buluşturup genelde komisyon alır. B2C: Yemeksepeti (komisyon), Düğün.com (üyelik bedeli), Armut.com (komisyon); C2C: sahibinden.com, letgo; B2B: Alibaba.
   10. Yem ve Olta: ucuz ürünle (yem) çekip pahalı tamamlayıcı ürüne bağlamak; Gillette (traş bıçağı modeli), inkjet yazıcılar, Nespresso, Tchibo Cafissimo.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 1. Kanvas İş Modeli'nin yapı taşı olmayan? → **b) Müşteri Kârlılığı** — 9 yapı taşı arasında yok; Müşteri Kesitleri, Müşteri İlişkileri, Değer Önerileri, Kanallar vardır.
 2. Kanvas İş Modeli'nin yapı taşı olmayan? → **c) Pazarlama Yapısı** — "yapı" olarak yalnızca Maliyet Yapısı vardır.
@@ -110,7 +110,7 @@ PDF s. 84–101 · Yazar: Doç. Dr. Adil Oran (Orta Doğu Teknik Üniversitesi)
 
 Sorular PDF s. 98'de başlar; cevap anahtarı PDF s. 100.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - İş planı ile iş modeli: iş planı 50–100 sayfalık, durağan, detaylı belgedir; iş modeli fikri hızla kâğıda döken, değişebilen araçtır. "Uzun vadeli detaylı plan" iş modelinin faydası değildir.
 - Müşteri ile kullanıcı: çok yanlı pazarda kullanıcı ödeme yapmaz (okuyucu), müşteri öder (reklam veren). Karar verici ile faturayı ödeyen (economic buyer) de farklıdır; ikincisi bütçeyi kontrol eder ve kararı veto edebilir. Etkileyen kararı vermez ama ağırlığı vardır; tavsiyede bulunan bilgi toplamakla görevlidir.
@@ -120,7 +120,7 @@ Sorular PDF s. 98'de başlar; cevap anahtarı PDF s. 100.
 - Kullandıkça Öde (ücret kullanım miktarına bağlı) ile Abonelik (belli süre için sabit erişim hakkı) ve Kiralama (bir varlığı süreli kullanma hakkı).
 
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 4 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -135,7 +135,7 @@ LMS'teki "Bölüm 4 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Temel ürünü **bedava** verip bazı müşterileri **daha özellikli** ürüne yönlendirerek kazanmak? → **Bedelsiz ve primli** (freemium). Yem ve olta ile karıştırma: orada ana ürün ucuz, sarf ürünü pahalıdır.
 10. Kullanıcıdan değil, onlara **ürününü tanıtmak isteyenlerden** gelir elde etmek? → **Reklam destekli.**
 
-## Videolar
+## 🎬 Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
 
@@ -163,4 +163,12 @@ Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların Y
 
 ### Video 4.3 — Değer Önerileri ve Gelir Kaynakları (7:37)
 
-Herkese açık bir kopyası yok, bu yüzden özeti çıkarılamadı. Konusu bu notun yukarısındaki değer önerisi ve gelir modelleri kısmıyla aynı.
+- **Değer önerisi**, Kanvas iş modelinin en önemli yapı taşlarından biridir: müşteri için hangi değer yaratılıyor, hangi problemi çözülüyor ya da hangi ihtiyacı karşılanıyor?
+- **Ürün ≠ değer önerisi**. **Matkap** örneği: değer önerisi matkabın kendisi değil, **duvardaki delik** ve duvara eşya sabitleyebilmektir. Sorunun "duvara bir şey asmak" olduğu görülünce çözüm **yapıştırma gücü yüksek bir bant** da olabilir; bu bakış inovasyona yol açar.
+- Değer önerisi öğeleri: **yenilik, performans, kişiselleştirme, işin yapılmasını sağlama, tasarım, marka, statü, fiyat, maliyet kontrolü, risk azaltımı, erişim, kolay kullanım**. Birden fazla müşteri kesiti varsa **her biri için ayrı** değer önerisi gerekir: **Facebook** kullanıcılara aile ve arkadaşlarıyla **ücretsiz** paylaşım ve iletişim, esas müşteri olan **reklam verenlere** reklamın tam istenen kişilere ulaşmasını sunar.
+- **Gelir modeli**: iş fikrinden nasıl para kazanılacağının tarifi. Kurucu kaynakları ve yatırımlar bir yere kadar idare eder; uzun vadede **nakit akışı yoksa şirket kapanır**. O kadar önemlidir ki bazen iş modelinin tamamı sayılır.
+- **Satış**: en eski gelir kaynağı (değiş tokuş döneminden beri). En yaygın görüşe göre fiyat maliyete bağlıdır: **taban = üretim maliyeti**, **tavan = müşterinin elde ettiği faydanın parasal değeri**.
+- **Kiralama**: ürünün bir süre kullanım hakkı; kiracı tüm bedeli ödeyip riski üstlenmez, kiraya veren ürünü ömrü boyunca birkaç kişiye kiralayarak satıştan fazla kazanabilir. **Kullandıkça öde**: ücret kullanım miktarına bağlı (**kargo, otelcilik, telekom**). **Abonelik**: belli süre kullanım/erişim hakkı (**kablo TV, web tabanlı oyunlar**).
+- **Bedelsiz ve primli**: temel ürün bedava, üstün ürün ücretli (**Dropbox**: bedava bulut yedekleme, fazla alan ücretli). **Hizmet olarak yazılım**: yazılımı kurmak yerine bulut tabanlı, kullandıkça öde ya da abonmanla kullanmak (**ofis programları**; sağlam internet bağlantısı şart).
+- **Doğrudan satış** (kapıdan kapıya): satış elemanı ve onları destekleyen altyapı gerekir (**Avon, Amway, Tupperware**). **Reklam destekli**: gelirin bir kısmı ya da tamamı reklamdan (**gazete, dergi, TV**); **Google, Gmail, Facebook** ürünü bedava verip reklamla çok yüksek değerlere ulaştı.
+- **Pazar yeri**: alıcı ile satıcıyı buluşturup **komisyon ya da üyelik ücreti** alır (**Yemeksepeti** siparişten komisyon). Şirketten tüketiciye: **Yemeksepeti, düğün.com, armut.com**; tüketiciden tüketiciye: **sahibinden.com, letgo**; şirketten şirkete: **Alibaba**. **Yem ve olta**: ucuz ürünle oltaya çekip pahalı tamamlayıcı ürüne mahkûm etmek; **Gillette** sapı ve iki bıçağı makul fiyata satar, yedek bıçak şok fiyatlıdır ve **patentli bağlantı** başka bıçağı engeller. Diğer örnekler: **inkjet yazıcılar, bazı kahve makineleri**.

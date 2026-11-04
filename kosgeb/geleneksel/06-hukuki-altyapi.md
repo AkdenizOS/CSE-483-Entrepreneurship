@@ -2,7 +2,7 @@
 
 PDF s. 122–139 · Yazar: Doç. Dr. Mahmut Yavaşi (Ankara Sosyal Bilimler Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - İşletme biliminde "girişimci" denen kişiye hukukta esnaf, sanatkâr, tacir, tüccar, müteşebbis denir. Teşebbüs kurma hakkı Anayasa m. 48'deki "herkes"e aittir.
 - Seçilen hukuki statü (esnaf, tacir, şirket ortağı) farklı haklar ve sorumluluklar doğurur. Hak ile sorumluluk "ikiz kardeş" gibidir.
@@ -13,7 +13,7 @@ PDF s. 122–139 · Yazar: Doç. Dr. Mahmut Yavaşi (Ankara Sosyal Bilimler Üni
 - Tacir, ticaretiyle ilgili tüm işlerde basiretli bir iş adamı gibi davranmak zorundadır.
 - Sona erme: limited şirketin 4 sona erme sebebi, tasfiye süreci ve unvanın sicilden silinmesi.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -45,7 +45,7 @@ PDF s. 122–139 · Yazar: Doç. Dr. Mahmut Yavaşi (Ankara Sosyal Bilimler Üni
 | Ayrılma akçesi | Şirketten ayrılan ortağın esas sermaye payının gerçek değerine karşılık isteyebildiği tutar. (PDF s. 134) |
 | Tasfiye | Sona eren şirketin alacaklarını toplayıp borçlarını ödeyerek kalan varlığı dağıttığı süreç; şirket bu süreçte "tasfiye hâlinde" ibaresiyle tüzel kişiliğini korur. (PDF s. 134) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Anayasa maddeleri** (PDF s. 123, 131)
 - m. 48: herkes teşebbüs kurma, dilediği alanda çalışma ve sözleşme hürriyetine sahiptir.
@@ -280,7 +280,7 @@ PDF s. 122–139 · Yazar: Doç. Dr. Mahmut Yavaşi (Ankara Sosyal Bilimler Üni
 - Kalan varlık, aksi yoksa ödenen sermaye ve imtiyazlar oranında dağıtılır. Üçüncü çağrıdan itibaren **1 yıl** geçmeden dağıtılamaz; alacaklılar için tehlike yoksa mahkeme erken izin verebilir. Dağıtım kural olarak para ile yapılır (TTK m. 543).
 - Tasfiye bitince unvanın sicilden silinmesini tasfiye memurları ister. Silinen şirket, şartları varsa yeniden ihdas edilebilir.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 137'de başlar (s. 137–138); cevap anahtarı PDF s. 139.
 
@@ -295,7 +295,7 @@ Sorular PDF s. 137'de başlar (s. 137–138); cevap anahtarı PDF s. 139.
 9. "Basiretli davranma" kavramına en yakın olan hangisidir? → **c) Tutum ve davranışında ölçülü olan** — Basiretli tacir, sonuçlarından emin olmadan risk almayan, dikkatli iş adamıdır (TTK m. 18(2)).
 10. Hangisi marka olabilir? → **e) Hepsi** — Şekiller, sözcükler, renkler ve sayılar 6769 SMK m. 4'te sayılan işaretlerdir.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Komandite ve komanditer:** Komandite ortak sınırsız sorumludur ve rekabet yasağına tabidir. Komanditer ortak sınırlı sorumludur ve rekabet yasağı yoktur.
 - **Şahıs ve sermaye şirketi:** Kişisel emek yalnızca şahıs şirketine (kollektif, komandit, adi ortaklık) sermaye olarak konulabilir. Anonim, limited ve kooperatifte yalnızca nakit ve ayni sermaye konulur.
@@ -304,7 +304,7 @@ Sorular PDF s. 137'de başlar (s. 137–138); cevap anahtarı PDF s. 139.
 - **Süreler:** çek ibrazı 10 gün / 1 ay / 3 ay; fatura itirazı 8 gün; açık ayıp 2 gün, gizli ayıp incelemesi 8 gün; çıkmaya katılma 1 ay; çıkarma kararına iptal davası 3 ay; marka kullanmama 5 yıl; tasfiyede ilanlar birer hafta arayla 3 kez, dağıtım için 1 yıl bekleme.
 - **Çoğunluklar ve sayılar:** sözleşme değişikliği için sermayenin 2/3'ü, genel kurulda müdür değişikliği için salt çoğunluk. Asgari sermaye: AŞ 50.000 TL, Ltd 10.000 TL. Kooperatif en az 7 kişiyle, AŞ ve Ltd tek kişiyle, adi/kollektif/komandit en az 2 kişiyle kurulur.
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 6 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -319,6 +319,30 @@ LMS'teki "Bölüm 6 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Hangisi **girişimci değildir**? (sanatkâr / esnaf / memur / tüccar / tacir) → **Memur.**
 10. Limited şirkette yönetim ve temsil yetkisi kimdedir? → **Müdür(ler)de.**
 
-## Videolar
+## 🎬 Videolar
 
-LMS'teki iki video tamamlandı: **6.1** İşletme, Esnaf, Tacir ve Sermaye Kavramları, **6.2** Hukuki Altyapı. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 6.1 — İşletme, Esnaf, Tacir ve Sermaye Kavramları (6:42)
+
+- İşletme biliminin **girişimcisi**, hukukta **esnaf, sanatkâr, tacir, tüccar, müteşebbis** diye anılır; **Anayasa'nın 48. maddesinde** "herkes" olarak geçen, teşebbüs kurma hakkına sahip kişilerdir. İşletmeyi **kendi adına** işletirse **esnaf/tacir**, bir **ortaklık ya da şirket** aracılığıyla işletirse **ortak/hissedar** statüsü kazanır; her statü farklı hak ve sorumluluk doğurur.
+- **Ticari işletme**: esnaf işletmesi sınırını **aşan** gelir hedefleyen faaliyetlerin **devamlı ve bağımsız** yürütüldüğü işletme. **Esnaf**: faaliyetini **sermayesiyle birlikte beden çalışmasına** dayandıran, kazancı tacir/sanayici niteliği kazandırmayacak miktarda olan kişi. Ayrım ölçütü **öngörülen gelir**; sınırı **Cumhurbaşkanlığı kararnamesi** belirler.
+- **Esnaf** gelir vergisinden **muaf olabilir**, ticari defter tutmak zorunda olmayabilir; **tacir** vergiye tabidir ve **defter tutmak zorundadır**.
+- **Tacir**: ticari işletmeyi **kısmen de olsa kendi adına** işleten kişi. İşletmeyi açtığını **ilanla** halka bildiren ya da **ticaret siciline tescil** ettirip ilan eden, fiilen başlamasa da tacir sayılır. **Gerçek ya da tüzel** kişi olabilir; **her türlü borcu için iflasa tabidir**; **ticaret unvanı** seçmek, **sicile tescil** ettirmek ve **ticari defter** tutmakla yükümlüdür.
+- **Sermaye** olabilecek değerler: **para, alacak, kıymetli evrak, sermaye şirketi payları, fikri mülkiyet hakları, taşınır ve taşınmazlar** ile bunların **faydalanma ve kullanma hakları**, **kişisel emek, ticari itibar, ticari işletmeler**, devredilebilir **elektronik ortamlar, alanlar, adlar ve işaretler**, **maden ruhsatnameleri**; kısacası devredilebilen ve nakde çevrilebilen her değer.
+- **TTK'ya göre ticaret şirketleri**: **kolektif, komandit, anonim, limited, kooperatif**. **Şahıs şirketi**: kolektif, komandit. **Sermaye şirketi**: anonim, limited, **sermayesi paylara bölünmüş komandit**. Şahıs şirketinde ortağın **şahsı**, sermaye şirketinde koyduğu sermayenin temsil ettiği **paylar** önemlidir; bu yüzden **kişisel emek** şahıs şirketine sermaye konabilir, **sermaye şirketine konamaz**.
+- Ortağın **kişisel alacaklısı**: şahıs şirketinde şirket sürüyorsa ortağın **kâr payından**, kapandıysa **tasfiye payından** alır; sermaye şirketinde bunlara ek olarak ortağın **paylarını haczedip paraya çevirebilir**. Kurmadan önce araştırılmalı: ortakların **şahsi mal varlığıyla sorumlu** olup olmadığı, **asgari sermaye** gerekip gerekmediği, yapılabilecek faaliyetler.
+- Ticaret şirketi ve kooperatif kuruluş aşamaları: **sözleşme hazırlanır** (ana sözleşmedeki eksiklik değişiklik gerektirir) → **imzalar noterde tasdik** edilir → **ticaret müdürlüğünde tescil** → **Türkiye Ticaret Sicili Gazetesi'nde ilan**.
+- Kuruluşun tamamlanması için: esnaf işletmesi **esnaf ve sanatkârlar odasına**, ticari işletme **ticaret, sanayi ve deniz ticaret odasına** tescil; **ticari defterleri tasdik** ettirip tutmak; **vergi dairesinde mükellefiyet** tesis ettirmek; gerekiyorsa iş yerini **SGK müdürlüğüne** tescil ettirmek. Tescil ve bildirimler zamanında yapılmazsa **para cezası** doğabilir.
+
+### Video 6.2 — Hukuki Altyapı (11:25)
+
+- Konular **limited şirket** bağlamında anlatılır. Limited şirket kanunen yasak olmayan her ekonomik amaçla, **bir veya daha çok gerçek ya da tüzel kişi** tarafından **ticaret unvanı** altında kurulur; sermayesi **esas sermaye paylarının toplamıdır**. Ortaklar **şirket borçlarından sorumlu değildir**; yalnızca taahhüt ettikleri payı ödemek ve sözleşmedeki **ek ödeme ve yan edim** yükümlülüklerini yerine getirmekle yükümlüdür. **Tüzel kişilik**: şirketin mal varlığı ve borçları ortaklarınkinden ayrıdır; ana sözleşmedeki amaçla kurucuların amacı aynı olmak zorunda değildir.
+- **Yönetim ve temsil** şirket sözleşmesiyle düzenlenir. **Ana sözleşme** teşebbüsün kuruluş sözleşmesidir: **unvan, merkez ve şubeler, ortaklar, faaliyet konusu**. Yetki **müdür** sıfatı taşıyan bir ya da birkaç ortağa, tüm ortaklara ya da üçüncü kişilere verilebilir. Müdürler, kanun ve sözleşmenin **genel kurula bırakmadığı** her konuda yetkilidir; yükümlülük ihlalinde **şirkete, pay sahiplerine ve şirket alacaklılarına** karşı sorumludur. Ödenen sermaye kuruluş giderlerine yetmezse **kredi, vadeli alım** ya da **ortakların şirkete borç vermesi** gerekebilir.
+- **Haklar ve sorumluluklar**. Şirket: amaçları doğrultusunda faaliyet hakkı, kanuni sorumluluklar. Müdür: **huzur hakkı**, yönetme ve temsil hakları; **dürüstlük kuralına** göre yönetmek ve ortaklara **eşit işlem** yapmak. Ortak: **kâr payı, payı devretme, genel kurula katılma ve oy, bilgi alma, denetleme, ortaklıktan çıkma** hakları; **sermaye koyma, ek ödeme, şirket sırlarını koruma** sorumlulukları.
+- **Kıymetli evrak**: içerdiği hak **senetten ayrı ileri sürülemez ve devredilemez**; borçlu **senedin teslimi karşılığında** öder. **Çek**: metnin yazıldığı dildeki **"çek" kelimesi** üzerinde olmalı; hamil **ibraz süresi** içinde **muhatap bankaya** sunmalı, süresinde ibraz edilmeyen çek, çek işlevi görmez. **Bono** bir **kredi vasıtasıdır**: düzenleyen bedeli **vadede kayıtsız ve şartsız** ödemeyi taahhüt eder; **düzenleyenin imzası yoksa bono geçersizdir**.
+- **Sözleşme**: çoğu **şekle tabi değildir**, ama sorunları kolay çözmek için **yazılı** yapmak uygundur. En az **iki** ehil kişi (gerçek ya da tüzel) gerekir; limited şirketle **müdür ya da vekiliyle**, gerçek kişiyle **sözleşme ehliyeti** olan kişiyle yapılır. Uyulmazsa **ihtar/ihbar**: **noter, taahhütlü mektup, telgraf** ya da **güvenli elektronik imzalı KEP**. Tüketiciye satışta **6502 sayılı Tüketicinin Korunması Hakkında Kanun** geçerlidir; **ayıplı mal**, kararlaştırılan örnek/modele uymayan ya da objektif olarak taşıması gereken özellikleri taşımayan maldır. Tüketicinin **dört seçimlik hakkı**: **sözleşmeden dönme, ayıp oranında indirim, ücretsiz onarım** (aşırı masraf gerektirmiyorsa, masraflar satıcıya), **ayıpsız misliyle değişim**.
+- **Rekabet**: devlet **tekelleşme ve kartelleşmeyi** önlemekle görevlidir. **4054 sayılı Rekabetin Korunması Hakkında Kanun** rekabeti bozucu **anlaşmaları, uyumlu eylemleri, teşebbüs birliği kararlarını** ve **hâkim durumun kötüye kullanılmasını** yasaklar. **Haksız rekabet**: aldatıcı ve dürüstlük kuralına aykırı davranışlar; örnek: başkasının olduğu bilinen **markayı kullanmak**, **kayıt dışı işçi** çalıştırmak, ürünü **rakibin ürünü sanılacak** şekilde pazarlamak. **Ortaklar arası** ve **işçi-işveren arası rekabet yasağı** kanunla belirlenmiştir.
+- **Marka**: malları ve hizmetleri diğerlerinden ayırt eden, **sicilde gösterilebilir** her tür işaret: **kişi adları dahil sözcükler, şekiller, renkler, harfler, sayılar, sesler, malların veya ambalajların biçimi**. **Unvan** tacirleri, **işletme adı** ticari işletmeleri, **marka** mal ve hizmetleri ayırır. Tescilden itibaren **5 yıl** içinde haklı sebep olmadan Türkiye'de **ciddi biçimde kullanılmayan** ya da kullanımına **5 yıl kesintisiz** ara verilen marka **iptal edilir**.
+- **İş sağlığı ve güvenliği**: **işveren** her türlü önlemi almak ve araç-gereci **eksiksiz** bulundurmakla, **işçi** önlemlere uymakla yükümlüdür. Önlem alınmazsa **meslek hastalığı ya da iş kazasında** işçi işverenden **kusuru oranında tazminat** isteyebilir; işveren **taksirle yaralama ya da ölüme sebebiyet** vermekten yargılanabilir.
+- **Ortaklıktan çıkma/çıkarılma**: sözleşme çıkma hakkı tanıyıp şarta bağlayabilir; her ortak **haklı sebeple** çıkma davası açabilir; sözleşme **genel kurul kararıyla çıkarma** sebeplerini belirleyebilir; ortak, kararın **noterle bildiriminden itibaren 3 ay** içinde **iptal davası** açabilir. **Sona erme**: işletmenin ömrü türüne bağlıdır (**tacirin ölümü** ticari işletmeyi sona erdirebilir; şirketin ömrü sözleşmede **sınırlı ya da sınırsız** belirlenir). Limited şirket **sözleşmedeki bir sebeple, genel kurul kararıyla, iflasın açılmasıyla** ve **kanundaki diğer hallerle** sona erer, **tasfiyeye** girer: tüzel kişiliği tasfiye sonuna kadar sürer, unvanı **"tasfiye halinde"** ibaresiyle kullanılır, organların yetkisi tasfiye amacıyla sınırlıdır; sonunda **tasfiye memurları** unvanın **sicilden silinmesini** ister, silinme **tescil ve ilan** edilir.

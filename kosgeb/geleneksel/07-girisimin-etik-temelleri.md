@@ -2,7 +2,7 @@
 
 PDF s. 140–154 · Yazar: Prof. Dr. Ömer Torlak (Rekabet Kurumu)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Etik ile ahlak günlük dilde eş anlamlı kullanılır ama farklıdır: ahlak yaşanan olgudur, etik o olgunun araştırılmasıdır.
 - Girişimcinin üç sorumluluğu vardır: bireysel, sosyal ve örnek olma sorumluluğu.
@@ -13,7 +13,7 @@ PDF s. 140–154 · Yazar: Prof. Dr. Ömer Torlak (Rekabet Kurumu)
 - Örnek olma sorumluluğu işletmede ve sektörde liderlikle taçlanırsa "etik liderlik" ortaya çıkar; etik liderlikte kurallardan çok tutum ve davranış önemlidir.
 - İnsan unutkan ve hırslı olduğu için yazılı olmayan ahlaki değerler yetmez; etik öğrenmenin önemli parçası yazılı "etik rehber"dir.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -42,7 +42,7 @@ PDF s. 140–154 · Yazar: Prof. Dr. Ömer Torlak (Rekabet Kurumu)
 | Etik öğrenme | Girişimde etik değerlerin öğrenilmesi; yazılı olmayan ahlaki değerlerin yetmediği yerde yazılı etik kurallarla desteklenir. (PDF s. 150–151) |
 | Etik rehber | Etik öğrenmenin önemli parçası olan, işletme içi ve dışına yönelik her türlü ilişkiye rehberlik etmesi beklenen yazılı rehber. (PDF s. 151) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Bölümün anahtar kavramları (5):** etik, ahlak, sorumluluk, etik liderlik, etik öğrenme. (PDF s. 140)
 
@@ -92,7 +92,7 @@ PDF s. 140–154 · Yazar: Prof. Dr. Ömer Torlak (Rekabet Kurumu)
 - Bee'o (Aslı Elif Tanuğur, gıda yüksek mühendisi): İTÜ Arı Teknokent'te 3 yıl önce 40 m² ile başladı, bugün 1.000 m² ve 38 kişilik ekip; KOSGEB desteğiyle kuruldu; Türkiye dünyanın ikinci arıcılık ülkesi, 7 milyon kovan; 300 sözleşmeli arıcı, 80 bine yakın kovan; 300'ün üzerinde numunenin %95'i istenen özellikte değil; Türkiye'nin ilk ve tek yerli propolisi; Amerika'dan inovatif ürünler kategorisinde birincilik ödülü. (PDF s. 146)
 - Facebook / Cambridge Analytica: 50 milyon kullanıcı profili; verileri test uygulamasıyla toplayan akademisyen Aleksandr Kogan; Zuckerberg "Hata yaptık". (PDF s. 150)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 152'de başlar; cevap anahtarı PDF s. 154'tedir.
 
@@ -107,7 +107,7 @@ Sorular PDF s. 152'de başlar; cevap anahtarı PDF s. 154'tedir.
 9. Hammadde, mamul, yarı mamul, insan kaynağı ve zamanın verimli kullanılması hangi ilkenin kapsamındadır? → **d) Kaynakları etkin kullanma**. Bu ilke tüm girdi kaynaklarını ve zamanı kapsar.
 10. Etik öğrenmenin parçası olan, işletme içi ve dışı ilişkilere yol gösteren rehberin adı nedir? → **e) Etik rehber**. Etik rehber yazılı hale getirilmiş etik değerlerdir.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - Ahlak ile etik: ahlak yaşanan olgu ve yazılı olmayan kurallar setidir (soru 1 "gündelik yaşamı düzenleyen kurallar" = ahlak). Etik bu olgunun araştırılması, yorumlayan felsefe alanıdır (soru 2 = etik). Etik zamana ve zemine göre değişir; ahlak ontolojik olarak bizim dışımızdaki bir gerçekliktir.
 - Ethos ile mos: ethos Grekçe ve "etik"in köküdür (karakter, alışkanlık). Mos Latince ve "moral"in köküdür (adet, alışkanlık, karakter).
@@ -116,7 +116,7 @@ Sorular PDF s. 152'de başlar; cevap anahtarı PDF s. 154'tedir.
 - Adil olma eşitlik demek değildir: farklı ücret ve farklı indirim adil olabilir. Ölçüt "hak edene hak ettiğini vermek"tir.
 - Etik zekâ değerleri ile etik ilkeler: etik zekâyı destekleyen değerler (dürüstlük, sorumluluk bilinci, şefkat, bağışlayıcılık) beşli ilke listesiyle aynı değildir. Şefkat ve bağışlayıcılık ilkeler arasında yer almaz.
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 7 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -131,6 +131,30 @@ LMS'teki "Bölüm 7 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Madenin bolca bulunduğu bölgede bile **geri dönüşüme** azami gayret? → **Kaynakları etkin kullanma** (bolluk israfı haklı çıkarmaz).
 10. Pazardaki **güçlü konumdan** doğan dürüstlükten uzaklaşma? → **Alıcı tekeli olduğu için fiyat kırmak.** Üretime hile, taklit, ürün güvenliğini tehlikeye atma ve rakibi karalama **zayıflıktan** doğan sapmalardır.
 
-## Videolar
+## 🎬 Videolar
 
-LMS'teki iki video tamamlandı: **7.1** Etik ve Girişimcinin Sorumlulukları, **7.2** Girişimin Etik Temelleri. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 7.1 — Etik ve Girişimcinin Sorumlulukları (5:23)
+
+- **Etik ilkeler**, toplumsal yaşamın her alanında davranışlara yön veren kurallardır. Toplumsal yaşamın sürekliliği için gerekir, iş yaşamının da önemli bir parçasıdır.
+- **Ahlak ile etik aynı şey değildir.** Ahlak, olgusal ve tarihsel olarak yaşanan gerçekliktir: insanın insan ve eşya ile ilişkilerine rehberlik eden **yazılı olmayan kurallar seti**. Etik ise bu olgunun araştırılmasıdır: iyi ve kötü eylemlerin ölçütlerini inceleyen bilim dalı.
+- Etik, bu kurallar setine dair felsefi değerlendirmeleri farklı **kültür, zaman dilimi ve sektör** açısından sözlü ve yazılı hale getirme çabasıdır.
+- Ahlak **2 bölüme** ayrılır: **nazari** ve **ameli**. Nazari ahlakın konuları ahlak felsefesine (etiğe) çok benzer. **4 soru**: iyi ve kötü nedir; aralarında seçim yapma kudretimiz var mı; ahlaki hükümlere nasıl varırız; bu hükümlerin genelliği ve geçerliliği ne ölçüdedir?
+- Ahlak felsefesinde baştan kabul edilmiş bir ahlaki kesinlik yoktur. Etik bu kesinliklere **düşünce ve tartışma** yoluyla ulaşmak ister.
+- Her girişimin arkasında bir girişimcilik öyküsü vardır. Girişimcinin sorumlulukları **3 boyutludur**: **bireysel, sosyal, örnek olma**.
+- **Bireysel sorumluluklar**: ürün geliştirme, üretim, tedarik, pazarlama, satış sonrası hizmet; kaynakları etkin ve verimli kullanma; müşteriye daha çok katkı; paydaş ve çalışan haklarını gözetme. Yerine getirilmeleri toplumsal maliyetleri azaltır.
+- Her bireysel sorumluluğun bir **sosyal sorumluluk arayüzü** vardır; aksarsa arz ve talep karşılanamaz. **Fırıncı örneği**: un tedarikini titiz planlamayan veya elektrik faturasını ödemediği için üretimi yönetemeyen fırıncı yüzünden market ve bakkal yeterli ekmek alamaz, tüketici talebi karşılanmaz. Sonuç, hesaplanması zor ve telafisi pahalı sosyal sorunlardır.
+- **Örnek olma sorumluluğu**: sözünde durma, tedarikçi ve çalışan haklarını zamanında ödeme, ürüne değer katma, rekabet kurallarına uyma, müşteriyi doğru bilgilendirme. Bunun en önemli zemini toplumun **ahlaki değerleri** ve iş hayatına yön veren **hukuk kurallarıdır**; ikisi hem girişimin etik temelini oluşturur hem girişimcinin etik ilkelerine rehberlik eder.
+
+### Video 7.2 — Girişimin Etik Temelleri (5:35)
+
+- Girişimin etik ilkelerini **toplumun ahlaki değerleri** oluşturur. Bu değerleri yok sayan girişim kısa vadede kazanabilir, büyüyebilir; ama değerlerden yoksunluk ortaya çıkınca varlığını sürdürmesi çok zorlaşır.
+- Girişimcinin **5 etik ilkesi**: **güvenilirlik, dürüstlük, sorumluluk bilinci, adil olma, kaynakları etkin kullanma**.
+- **Güvenilirlik** girişimciyi **öngörülebilir** kılar, öngörülebilirlik de ilişkilerde güven yaratır. Müşteri, çalışan ve tedarikçiyi memnun eder, rakipleri de aynı yönde teşvik eder.
+- **Dürüstlük**: hiçbir mazeret dürüst olmayan davranışı hoş göstermez. Önemli olan, gücüne rağmen dürüst davranmaktır; pazarda ne **tekel** konumu ne **zayıf** durum girişimciyi dürüstlükten uzaklaştırmalı.
+- **Sorumluluk bilinci**: bireysel, sosyal ve örnek olma sorumlulukları. İhmal edilirse ek ekonomik ve toplumsal maliyetlerle geniş kitleleri etkiler. **Çalışanlara, müşterilere, tedarikçilere, rakiplere ve çevreye** karşı sorumluluk: vergi vermek, ödemeleri zamanında yapmak, toprak/hava/suyu kirletmemek, haksız rekabet yapmamak. Ayrıca **ailevi sorumluluk** (geçimi sağlamak, aileye zaman ayırmak), yenilik yapma ve ekonomik gelişime katkı.
+- **Adil olma**, diğer ilkelerin önemli bir **ara kesitidir**. Matematiksel eşitlik değil, **hak edene hak ettiğini vermektir**. Bu ilke olmadan gerçek rekabet ve yenilik motivasyonu sağlanamaz.
+- **Kaynakları etkin kullanma**: dünya kaynakları azaldıkça önemi artar; israftan kaçınılmalı. Toprak, hava, su, enerji, ham madde, mamul ve yarı mamulün yanında **insan kaynağı ve zaman** da kaynaktır. Girişimci kendi zamanı kadar çalışan, müşteri ve tedarikçilerin zamanını da verimli kullanmalı.
+- **Etik liderlik**: yönetme yeteneğine ek olarak iş ahlakında da liderlik göstermek. Sözlü veya yazılı kurallardan çok **tutum ve davranış** önemlidir; girişimci önce davranışlarıyla liderlik eder. Önemsenmeyen küçük olumsuz davranışlar daha sorunlu davranışlara ve iş dünyasında **ahlaki yozlaşmaya** yol açar.
+- **Etik öğrenme**: ahlaki değerlerin yazılı olmaması ve toplumdaki yozlaşma yüzünden işletme içi ve dışı ilişkilere rehberlik edecek bir **etik rehber** gerekir. Etik rehber kuralları daha **objektif, rasyonel ve uygulanabilir** kılar; girişimin etik değerlerini **yazılı rehber** olarak sunması önemlidir.

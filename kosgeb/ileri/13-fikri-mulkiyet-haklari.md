@@ -2,7 +2,7 @@
 
 PDF s. 298–315 · Yazar: Prof. Dr. İlker Murat Ar (Ankara Yıldırım Beyazıt Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Fikri mülkiyet, fikir ve sanat ürünleri üzerindeki düşünsel haklardır. Sahibine belirli bir süre için rekabet avantajı verir.
 - Hak sahibi hakkın kullanımında tek yetkilidir: hiç paylaşmayabilir, sınırlı paylaşabilir ya da serbest bırakabilir.
@@ -13,7 +13,7 @@ PDF s. 298–315 · Yazar: Prof. Dr. İlker Murat Ar (Ankara Yıldırım Beyazı
 - Her korumanın süresi farklıdır: patent 20, faydalı model 10, marka 10 (yenilenebilir), tasarım 5 (25'e kadar), telif ömür + 70 yıl, coğrafi işaret süresiz.
 - Tescil başvurusundan önce ön araştırma yapılması önemlidir. Başvuru sahibi bunu ücretsiz çevrim içi veritabanlarıyla kendisi yapabilir.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -45,7 +45,7 @@ PDF s. 298–315 · Yazar: Prof. Dr. İlker Murat Ar (Ankara Yıldırım Beyazı
 | Ayırt edici nitelik | Tasarımın bilgilenmiş kullanıcıda bıraktığı genel izlenimin, daha önce sunulmuş tasarımlarınkinden farklı olması (PDF s. 308). |
 | Ön Araştırma | Patent, marka ve tasarım başvurusundan önce başvuru sahibinin yapabildiği benzer kayıt araştırması (PDF s. 310). |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Fikri Mülkiyet türleri (Şekil 13.1, PDF s. 301)**
 - Telif Hakları (Fikri Haklar): ilim ve edebiyat eserleri, musiki eserleri, güzel sanatlar eserleri, sinema eserleri.
@@ -191,7 +191,7 @@ PDF s. 298–315 · Yazar: Prof. Dr. İlker Murat Ar (Ankara Yıldırım Beyazı
 - Marie Curie radyumun patentini almadı; radyumun tüm insanlığın malı olduğunu söyledi.
 - Vestel "VEO": 7 Eylül 2018'de tasarım tescil başvurusu, 9 Ekim 2018 Tasarımlar Bülteni'nde yayın, 6 görsel, itiraz süresi 3 ay.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 1. Buluşun kime ait olduğunu gösteren ve ona iktisadi değer katan belge hangisi? → **a) Patent** — patentin kitaptaki tanımı birebir budur.
 2. Patent ile faydalı model arasındaki temel fark hangisi? → **d) Faydalı modelde "buluş basamağı" kriteri aranmaz** — Tablo 13.1'in dipnotu; ayrıca faydalı model daha kısa sürelidir (10 yıl), yani a şıkkı tersidir.
@@ -206,7 +206,7 @@ PDF s. 298–315 · Yazar: Prof. Dr. İlker Murat Ar (Ankara Yıldırım Beyazı
 
 Sorular PDF s. 312'de başlar (s. 312–313); cevap anahtarı PDF s. 314.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - Patent ile faydalı model: ikisi de buluşu korur. Patent 20 yıl, üç kriterin hepsini ister, süreçte inceleme raporu vardır. Faydalı model 10 yıl, buluş basamağı aranmaz, inceleme raporu yoktur. İkisi de uzatılamaz; hangisinin seçileceğine buluş sahibi karar verir.
 - Patentteki "yenilik" ile tasarımdaki "yenilik": patentte buluş başvuru tarihinden önce erişilebilir yolla açıklanmamış olmalıdır; tasarımda aynısı kamuya ilk sunulduğu tarihten önce dünyanın hiçbir yerinde kamuya sunulmamış olmalıdır. "Ayırt edici nitelik" yalnızca tasarım kriteridir, patent kriteri değildir.

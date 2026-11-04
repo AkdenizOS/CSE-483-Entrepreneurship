@@ -2,7 +2,7 @@
 
 PDF s. 18–47 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Girişimcinin işi, paydaşları için değer yaratmaktır. Bu değeri büyütmenin yolu yeniliktir. Kitaba göre girişimcinin işletmeyi başarıya taşımadaki en önemli sorumluluğu yenilik yapmaktır.
 - Girişimcilik tanımı zamanla değişti: Cantillon belirsizliği ve riski, J.B. Say üretim faktörlerini bir araya getirmeyi, Schumpeter yeniliği öne çıkardı.
@@ -13,7 +13,7 @@ PDF s. 18–47 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 - Girişimcilik motivasyonları 4 grupta toplanır. Engeller uzun çalışma saatleri, düzensiz gelir ve stresli yaşamdır.
 - Girişimcilik süreci 4 aşamalıdır. Bölüm 5 başarısızlık nedeni ve 8 girişimcilik efsanesiyle kapanır.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -46,7 +46,7 @@ PDF s. 18–47 · Yazar: Prof. Dr. Engin Özgül (Dokuz Eylül Üniversitesi)
 | Girişimcilik kapasitesi | Bireyi girişimci olmaya yönelten en önemli etken (Alpugan, 1998). Bu kapasite yoksa paranın önemi kalmaz. (PDF s. 43) |
 | Kuluçka merkezi | İş fikirlerinin çok sayıda yetkin kişiyle paylaşılarak geliştirildiği, konsept ve müşteri testlerinin yapıldığı merkez. (PDF s. 43) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **Giriş ve değer yaratma**
 - Girişimciler toplumun ortalama **%5**'ini oluşturur. (PDF s. 19)
@@ -197,7 +197,7 @@ Dürüst ve güvenilir, tutarlı, azimli ve sabırlı, kararlı, kendine güvene
 - Biota (Cihat Dündar): 2002'de 15–20 kişiyle kuruldu. Markaları Bioxcin, Bioder, Bioblas, Biomen, Restorex, Nutraxin. Fabrikası Türkiye'nin ilk, Avrupa'nın üçüncü en büyük dermokozmetik tesisidir. (PDF s. 19)
 - udemy.com (Eren Bali ve Oktay Çağlar): 50 yatırımcıdan ret aldılar. 500 binden fazla kayıtlı öğrencisi var. 2016'daki piyasa değeri 710 milyon $. Eren Bali'nin sonraki girişimi Carbon Health. (PDF s. 31)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 44'te başlar. Cevap anahtarı PDF s. 46'dadır.
 
@@ -212,7 +212,7 @@ Sorular PDF s. 44'te başlar. Cevap anahtarı PDF s. 46'dadır.
 9. Hangisi KOBİ avantajı değildir? → **c) Karar almada tek yöneticiye bağımlı olma** — Bu, büyüklükten kaynaklanan bir dezavantajdır.
 10. Hangisi girişimcilik efsanelerinden (doğru bilinen yanlışlardan) değildir? → **d) Tek başına iş fikrinin değeri yoktur** — Bu bir efsane değil, kitabın Efsane 1'e verdiği doğru cevaptır.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Yönetim fonksiyonları ile girişimcilik süreci**: Planlama, örgütleme, yürütme ve kontrol yöneticinin görevleridir. Fırsat tespiti, iş modeli/planı, kaynaklar ve büyüme-çıkış ise girişimcilik sürecinin aşamalarıdır. "Örgütleme" süreç sorusunda, "programlama" fonksiyon sorusunda çeldirici olarak çıkar.
 - **İçsel amaçlar ile paydaş beklentileri**: Kâr, büyüme ve sürdürülebilirlik girişimin kendi amaçlarıdır. "Vergi ve kurallara uyum" devletin beklentisidir. "Sosyal fayda" ticari olmayan işletmelerin (belediye ekmek fabrikası gibi) amacıdır.
@@ -223,7 +223,7 @@ Sorular PDF s. 44'te başlar. Cevap anahtarı PDF s. 46'dadır.
 - **Motivasyon grupları**: "Bağımsızlığa yönelik" motivasyon en önemli neden sayılır. "Güvenliğe yönelik" motivasyon girişimciliğe duyulan ilginin en temel öğesidir. "Çevresel motivasyon" diye bir grup yoktur (Soru 6'daki çeldirici).
 
 
-## Bölüm sonu sınavı (LMS)
+## 📝 Bölüm sonu sınavı (LMS)
 
 LMS'teki "Bölüm 1 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
 
@@ -238,9 +238,16 @@ LMS'teki "Bölüm 1 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplar
 9. Girişimcinin **en önemli fonksiyonu** hangisidir? → **Yenilik yapması ve yenilikçi bir işletme kurması.**
 10. Hangisi girişimcilik hakkında doğru bir bilgi **değildir**? → **"İş fikri çok karmaşık ise başarı garantidir."** Bu bir girişimcilik efsanesidir; başarılı fikirlerde basitlik öne çıkar.
 
-## Videolar
+## 🎬 Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
+
+### Eğitime Giriş (1:15)
+
+- Video, KOSGEB'in **Girişimci Destek Programı**nı tanıtır: iş kurmak ve geliştirmek isteyenlere **2 milyon TL'ye kadar** destek.
+- **İş kurma desteği**: kuruluş ve personel giderleri **%100** oranında ve **geri ödemesiz** karşılanır. Kuruluş desteği **gerçek kişi işletmesine 10 bin TL**, **sermaye şirketine 20 bin TL**.
+- **İş geliştirme desteği**: **imalat, bilişim, bilimsel araştırma** gibi alanlardaki işletmelere; **makine-teçhizat, yazılım, personel, hizmet alımı** giderlerine **%80** oranında, **1,5 milyon TL'ye kadar**, **geri ödemeli**. Girişimci **genç, kadın, engelli, gazi veya şehit yakını** ise üst limite **150 bin TL** eklenir.
+- Desteklerde **faiz ve komisyon yoktur**; geri ödemeler **36 ay sonra** başlar. Başvuru **e-Devlet** üzerinden KOSGEB e-hizmetler sayfasından yapılır.
 
 ### Video 1.0 — Girişimcilik Geliştirme Destek Programı (5:02) · [izle](https://www.youtube.com/watch?v=azNKOV9jolo)
 

@@ -2,7 +2,7 @@
 
 PDF s. 220–249 · Yazar: Prof. Dr. Rafet Aktaş (Ankara Yıldırım Beyazıt Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Muhasebe bilgi sistemi, finansal bilgiye ihtiyaç duyan paydaşlara bilgiyi **finansal tablolar** yoluyla sunar. Finansal yönetim için gereken muhasebe bilgisine de finansal tablolarla ulaşılır.
 - Temel finansal tablolar seti beş parçadır: Bilanço, Gelir Tablosu, Nakit Akış Tablosu, Özkaynak Değişim Tablosu, Dipnotlar.
@@ -13,7 +13,7 @@ PDF s. 220–249 · Yazar: Prof. Dr. Rafet Aktaş (Ankara Yıldırım Beyazıt �
 - Asıl finansal amaç kâr maksimizasyonu değil, **firmanın piyasa değerinin maksimizasyonu**dur. Kâr eden bir işletme de likidite sıkıntısıyla iflas edebilir.
 - Likidite durumu üç oranla ölçülür: likidite (cari) oranı, asit-test oranı, nakit oranı.
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -49,7 +49,7 @@ PDF s. 220–249 · Yazar: Prof. Dr. Rafet Aktaş (Ankara Yıldırım Beyazıt �
 | Vade uyumu | Bir dönemden kısa sürede nakde dönecek dönen varlıklar ile aynı sürede ödenecek kısa vadeli borçlar arasındaki uyum (PDF s. 234). |
 | Likidite oranları | Kısa vadeli borç ödeme gücünü, yani işletme sermayesinin yeterliliğini ölçen raşyo (oran) analizi oranları (Özdemir, 1997) (PDF s. 235). |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 ### Temel finansal tablolar seti (PDF s. 221)
 
@@ -231,7 +231,7 @@ Tüm oranlar içinde bulunulan sektörün ortalamasıyla karşılaştırılarak 
 - **Üçler Market** (Finans Müdürü Hüseyin Parlak): net işletme sermayesinin artıda kalması için kısa vadeli borç en aza indirilir, uzun vadeli finansman tercih edilir ("sat ve geri kirala"; konsinye satış oranını artırmak). İşletme sermayesi ihtiyacını doğuran en önemli etken borçları kısa vadede ödeme taahhüdüdür. Öneri: ödemeleri kategorilere ayırıp haftaya veya güne yaymak. Nakit akışını hızlandırmanın formülü: satışı artırmak ya da günlük ödemeleri azaltmak.
 - **Tesla**: Moody's notu B-'den CCC'ye düştü; 18 ayda yaklaşık 8 milyar dolar kaynak ihtiyacı; ABD Menkul Kıymetler ve Borsalar Komisyonu son 5 yılda 85 ek bilgi ve tebliğ bildirimi yaptı. 2017'de Ford 6 milyon araçla 7,6 milyar dolar kâr etti ve elinde 12 milyar dolar nakit vardı; Tesla 100 bin araçla 2 milyar dolar zarar etti. Ders: piyasa değeri yüksek olsa da nakit sıkıntısı iflas riski doğurur.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 236'da başlar; cevap anahtarı PDF s. 238.
 
@@ -246,7 +246,7 @@ Sorular PDF s. 236'da başlar; cevap anahtarı PDF s. 238.
 9. Stoklar bir an satılamazsa borç ödeme gücünü gösteren oran hangisidir? → **b) Asit-Test Oran** — (dönen varlıklar − stoklar) / KVYK.
 10. Net çalışma sermayesi hakkında bilgi veren oran hangisidir? → **c) Cari Oran** — metinde "likidite oranı" diye geçen dönen varlıklar / KVYK oranı; beklenen değer 2.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Bilanço ve gelir tablosu**: bilanço bir zaman noktasını gösterir (durağan, "finansal durum"); gelir tablosu bir dönemi gösterir (dinamik, kümülatif, "finansal performans").
 - **Nakit akış tablosu ve özkaynak değişim tablosu**: biri nakit ve nakit benzerlerindeki değişimi, diğeri özkaynak kalemlerindeki değişimi açıklar.

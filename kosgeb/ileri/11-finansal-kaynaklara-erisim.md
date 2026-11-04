@@ -2,7 +2,7 @@
 
 PDF s. 250–271 · Yazar: Prof. Dr. Ramazan Aktaş (TOBB Ekonomi ve Teknoloji Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - İş planının üç ana unsuru: **iş fikri, network ve finansman**. Fonun doğru zamanda, yeterli tutarda ve uygun koşullarda bulunması hayati önemde; anketlerde girişimciler finansal kaynağa erişimi başarı/başarısızlığın en önemli nedeni olarak gösteriyor (s. 251–252).
 - Girişimci iki temel nedenle finansmana ihtiyaç duyar: cari (günlük) faaliyetler ve sabit yatırımlar. En sık hata, işletme sermayesi ihtiyacını (stok + alacak) hiç öngörmemek ya da eksik hesaplamak (s. 252).
@@ -13,7 +13,7 @@ PDF s. 250–271 · Yazar: Prof. Dr. Ramazan Aktaş (TOBB Ekonomi ve Teknoloji �
 - Başlangıçta teminat sorunu yüzünden en çok kullanılan borç türü **spontan finansman**dır, özellikle satıcıdan vadeli alımla oluşan **ticari borç** (s. 258).
 - Yeni sermaye bulma yöntemleri: **barter, kitle fonlama, kamu kurum ve kuruluşlarının destekleri** (KOSGEB, TÜBİTAK, TTGV, KGF) (s. 263–267).
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -57,7 +57,7 @@ PDF s. 250–271 · Yazar: Prof. Dr. Ramazan Aktaş (TOBB Ekonomi ve Teknoloji �
 | TTGV girişimci destekleri | TTGV'nin girişimcilere kullandırdığı faaliyet destekleri (Ekonomi Bakanlığı, Kalkınma Ajansları ile birlikte anılır). (PDF s. 267) |
 | KGF destekleri | Kredi Garanti Fonu'nun teminat sorunu yaşayan girişimciye kredi için kefalet vermesi. (PDF s. 267) |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **İş planının ana unsurları (3):** iş fikri, network, finansman. (s. 251)
 
@@ -226,7 +226,7 @@ PDF s. 250–271 · Yazar: Prof. Dr. Ramazan Aktaş (TOBB Ekonomi ve Teknoloji �
 
 **Özetten:** temel finansal tablolar bilanço, gelir (kâr/zarar) tablosu ve nakit akım tablosu. Varlıklar bilançonun aktifinde (dönen + duran), onları finanse eden borç ve özsermaye pasifte. Türkiye'de çoğu girişimci her aşamada otofinansman kullanıyor. (s. 267–268)
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 Sorular PDF s. 269'da başlar, cevap anahtarı PDF s. 270'tedir.
 
@@ -241,7 +241,7 @@ Sorular PDF s. 269'da başlar, cevap anahtarı PDF s. 270'tedir.
 9. Hangi şirket türü borçlanma aracı ihracıyla fon sağlar? → **b) Anonim** — tahvil ve finansman bonosu yalnızca anonim şirketçe ve SPK izniyle ihraç edilir.
 10. Risk (girişim) sermayesi daha çok ne amaçla finansman sağlar? → **e) Büyüme** — Türkiye'de GSYO'lar çekirdek aşamaya girmez, kâra geçmiş ve büyümek isteyen girişimi finanse eder.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - **Melek yatırımcı ile risk sermayesi:** melek yatırımcı erken evrede, küçük tutarla (100 bin–1 milyon TL) giren bir gerçek kişidir ve daha çok risk alır. Risk sermayesi daha sonraki büyüme aşamasına giren bir şirkettir (GSYO) ve daha az risk alır. İkisi de ortak olur, kontrol hakkı alır ve network ile know-how desteği verir.
 - **Borçlu cari hesap ile spot kredi:** borçlu cari hesapta faiz değişkendir, oran yüksektir, vade yoktur; nakit girişi düzensiz işe uyar. Spot kredide faiz sabittir, oran düşüktür, vade bellidir; nakit girişi düzenli işe uyar.

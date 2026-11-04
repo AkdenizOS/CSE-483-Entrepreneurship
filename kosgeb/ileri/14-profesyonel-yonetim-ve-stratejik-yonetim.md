@@ -2,7 +2,7 @@
 
 PDF s. 316–337 · Yazar: Doç. Dr. Umut Koç (Eskişehir Osmangazi Üniversitesi)
 
-## Bir bakışta
+## 📖 Bir bakışta
 
 - Türkiye'de işletmelerin %95'ten fazlası KOBİ'dir. KOBİ'ler istihdamın yaklaşık ¾'ünü sağlar ama katma değerin ancak yarısından biraz fazlasını üretir. Düşük katma değer bir kader değildir; profesyonelleşen ve stratejik yönetimi benimseyen girişimler daha iyi performans gösterir.
 - Kurucu ve aile egemenliği başta doğaldır, sürerse büyümeyi engeller. Keyfi kararlar, yazılı kural eksikliği, belirsiz hedefler profesyonelleşememenin göstergeleridir.
@@ -13,7 +13,7 @@ PDF s. 316–337 · Yazar: Doç. Dr. Umut Koç (Eskişehir Osmangazi Üniversite
 - Stratejik yönetimin temeli sürdürülebilir rekabet üstünlüğüdür. Süreç dış çevre analizi, iç çevre analizi, stratejinin belirlenmesi ve uygulanmasını birleştirir.
 - Üç işletme stratejisi vardır: maliyet liderliği, farklılaştırma, bütünleştirme. Bütünleştirme en risklisidir ("arada sıkışma").
 
-## Kavramlar
+## 📖 Kavramlar
 
 | Kavram | Tanım |
 |---|---|
@@ -65,7 +65,7 @@ PDF s. 316–337 · Yazar: Doç. Dr. Umut Koç (Eskişehir Osmangazi Üniversite
 | Esnek imalat | Çeşitli görevleri yapan, çeşitli ürünler üretebilen makineleri kullanma (CNC tezgâhlar, robotlar) (PDF s. 330). |
 | Kitlesel kişiselleştirme | Ürünleri çok sayıda müşterinin bireysel tercihine hızlı ve düşük maliyetle uyarlama (PDF s. 330). |
 
-## Ezberlenecek listeler ve sayılar
+## 📖 Ezberlenecek listeler ve sayılar
 
 **KOBİ istatistikleri (TÜİK 2016, PDF s. 317)**
 - İşletmelerin %95'ten fazlası KOBİ (en fazla 249 çalışan).
@@ -262,7 +262,7 @@ PDF s. 316–337 · Yazar: Doç. Dr. Umut Koç (Eskişehir Osmangazi Üniversite
 - Snapchat 2011'de çıktı; temel özelliği en fazla 10 saniyelik, tekrarı olmayan paylaşım. Facebook 2012'de rakip "Poke"u çıkardı; 2013'te 3 milyar dolarlık satın alma teklifini Snapchat reddetti. Facebook 2016'da Instagram ve WhatsApp'a hikâyeler özelliğini ekledi.
 - Ders: kolay kopyalanabilen bir özellikle yola çıkan uygulama, farklılaşmayı koruyacak araçlarla güçlenmeli; iyi ürün doğru yönetim becerisiyle birleşmezse başarısız olur.
 
-## Kendimizi Sınayalım
+## 📖 Kendimizi Sınayalım
 
 1. Hangisi profesyonel yönetimin boyutlarındandır? → **e) Biçimselleşme ve bölümlendirme** — altı boyuttan biri; diğer şıklar genel yönetim işlevleridir.
 2. Hangisi biçimselleşmenin üstünlüklerinden değildir? → **c) Yeniliği ve yaratıcılığı teşvik etme** — tersine, aşırı biçimselleşme yeniliği engeller; diğer şıklar Child'ın saydığı üstünlüklerdir.
@@ -277,7 +277,7 @@ PDF s. 316–337 · Yazar: Doç. Dr. Umut Koç (Eskişehir Osmangazi Üniversite
 
 Sorular PDF s. 334'te başlar (s. 334–335); cevap anahtarı PDF s. 335.
 
-## Karıştırılabilecekler
+## 📖 Karıştırılabilecekler
 
 - İş tanımı ile iş şartnamesi: iş tanımı işin sorumluluklarını, bağlı olunan yöneticiyi ve genel amacı gösterir; iş şartnamesi işi yapacak kişide aranan bilgi, beceri, yetenek, eğitim ve deneyimi gösterir. İş ilanları iş şartnamesine dayanır.
 - İşlevsel ile çok bölümlü yapı: işlevsel yapı bölüm içi koordinasyonda, verimde ve maliyette güçlüdür. Çok bölümlü yapı müşteri odağında, kâra dayalı hesap verebilirlikte ve yönetici yetiştirmede güçlüdür, ama işlev tekrarı yüzünden maliyeti yüksektir. Hızlı karar ve esneklik basit yapının, proje esnekliği matrisin üstünlüğüdür.
