@@ -120,6 +120,21 @@ Sorular PDF s. 98'de başlar; cevap anahtarı PDF s. 100.
 - Kullandıkça Öde (ücret kullanım miktarına bağlı) ile Abonelik (belli süre için sabit erişim hakkı) ve Kiralama (bir varlığı süreli kullanma hakkı).
 
 
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 4 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Ana kitleden farklı **küçük bir tüketici grubunun** ihtiyacını farklı bir ürünle karşılayan pazarlama? → **Niş pazarlama.**
+2. **Kişilik, ilgi alanları, hobiler, değerler**e göre müşteri kesiti? → **Psikografik.**
+3. Ana akım yerine **aşırı uçlardaki** farklı müşterilerin ihtiyacına odaklanan pazarlama? → **Uzun kuyruk pazarlama.**
+4. Hangisi müşteri kesiti tanımlamada yaygın kriterlerden **değildir**? (psikografik / coğrafi / demografik / bilişsel / davranışsal) → **Bilişsel.**
+5. Hangisi iş modeli kullanmanın faydalarından **değildir**? → **Uzun vadeli, kapsamlı ve detaylı bir plan hazırlanması.** Bu iş **planının** işidir; iş modeli fikri hızla kâğıda döker, alternatifleri ve varsayımları gösterir.
+6. Pazarda **boşluk görerek** yola çıkan, hayatta kalma ve **yüksek büyüme** ihtimali taşıyan girişimcilik? → **Fırsat temelli girişimcilik** (karşıtı: zorunluluk temelli).
+7. Satın almaya alternatif olarak ürünü **bir süre kullanma hakkından** elde edilen gelir modeli? → **Kiralama.**
+8. **Fayda, sadakat, kullanım sıklığı**na göre müşteri kesiti? → **Davranışsal.**
+9. Temel ürünü **bedava** verip bazı müşterileri **daha özellikli** ürüne yönlendirerek kazanmak? → **Bedelsiz ve primli** (freemium). Yem ve olta ile karıştırma: orada ana ürün ucuz, sarf ürünü pahalıdır.
+10. Kullanıcıdan değil, onlara **ürününü tanıtmak isteyenlerden** gelir elde etmek? → **Reklam destekli.**
+
 ## Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
