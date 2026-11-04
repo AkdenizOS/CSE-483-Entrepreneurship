@@ -120,6 +120,21 @@ Sorular PDF s. 58'de başlar. Cevap anahtarı PDF s. 60'tadır.
 - **Müşteri odaklı ile hibrit inovasyon**: Müşteri odaklı inovasyon "daha önde" görünür. En uzun vadede işe yarayan ise kopyalanması zor hibrit inovasyondur (iPhone).
 
 
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 2 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Hangisi **yanlıştır**? (problem çözmek girişimcinin önceliğidir / bulunacak her türlü icat bulundu / çözülmeyi bekleyen binlerce problem var / probleme çözüm üretmek sadece ilk adımdır / fikir uygun ortamda büyür) → **"Bulunacak her türlü icat bulundu."**
+2. İhtiyaçla ilgili hangisi **yanlıştır**? → **"Direkt olarak ihtiyacı gidermeye çalışmak girişimci için doğru bir hamledir."** İnsanlar ihtiyacını yanlış ifade edebilir (Ford'un "daha hızlı atlar" sözü); ihtiyaç trende ve zamana göre değişir, araç değişse de ihtiyaç sürer.
+3. Hangisi bir **problem değildir**? (deniz seviyesinin yükselme ihtimali / tarım ve balıkçılığın azalması / buzulların erimesi / yangında zarar gören ormanların ıslahı / selde yok olan evler) → **Yangınlar sebebiyle zarar gören ormanların ıslah edilmesi.** Islah bir **çözümdür**; diğerleri yaşanan sorun durumlarıdır.
+4. Hangisi **yanlıştır**? → **"Girişimci olmak için mucit olmak gerekmektedir."** Fikir ürüne dönüşecek tohumdur; birine iyilik yaparken ya da çevredeki bir soruna çözüm ararken de inovasyon yapılabilir; doğru problemi bulmak fırsatları çoğaltır.
+5. Hangisi **doğrudur**? → **"Girişimcilikte ilk adım böyle bir ihtiyaç ve pazar olup olmadığını test etmektir."**
+6. Müşteri keşfinde hangisi **asla sorulmaz**? (köpek örneği) → **"Köpeğinizin kötü kokmaması için şampuan çıkardık, alır mıydınız?"** "Şöyle bir ürünümüz var, kullanır mısınız?" tipindeki soru müşteri keşfinin bir numaralı yasağıdır; diğerleri müşterinin yaşadığını anlamaya yönelik sorulardır.
+7. Pazarda **fark yaratacak ve rekabette avantaj sağlayacak yenilikler** olarak tanımlanan kavram? → **İnovasyon** (işe yarar yenilik).
+8. Hangisi **teknolojik gelişmelerin takibiyle** fırsat yaratan bir inovasyondur? (kalite çemberleri / sosyal girişimler / katalogla pazarlama / üç boyutlu yazıcılar / müşteri şikâyet yönetimi) → **Üç boyutlu yazıcılar.**
+9. Hangisi girişimci için bir **fırsat** olabilir? (iyi ortak / güneş enerjisi cihaz maliyetlerinin düşmesi / iyi girişim adı / iyi bir ihtiyaç görmek / iyi mekân) → **Güneş enerjisi cihaz maliyetlerinin düşmesi.** Fırsat **çevresel** faktörlerin (teknoloji, pazar, yasa) yarattığı ortamdır; ortak, ad ya da mekân bulmak girişimcinin kendi kaynağıdır.
+10. Müşteri keşfinde ne **yapılmalı**? → **Müşterinin yaşadıklarını inceleyip hayatının hangi kısmında ürününüzü kullanabileceğini keşfetmek.** Yanlışlar: sürekli siz konuşmak, söylediklerine yaptıklarından çok bakmak, cevabını bildiğiniz soruları sormak, "kullanır mısınız?" diye sormak.
+
 ## Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
