@@ -115,3 +115,22 @@ Sorular PDF s. 152'de başlar; cevap anahtarı PDF s. 154'tedir.
 - Etik temeller ile etik ilkeler: temeller = ahlaki değerler + hukuk normları. İlkeler = güvenilirlik, dürüstlük, sorumluluk bilinci, adil olma, kaynakları etkin kullanma. Bölüm metni beş ilke sayar; özet ise sorumluluk bilincini atlayarak dört ilke yazar. Sınavda beşli liste esas alınmalıdır.
 - Adil olma eşitlik demek değildir: farklı ücret ve farklı indirim adil olabilir. Ölçüt "hak edene hak ettiğini vermek"tir.
 - Etik zekâ değerleri ile etik ilkeler: etik zekâyı destekleyen değerler (dürüstlük, sorumluluk bilinci, şefkat, bağışlayıcılık) beşli ilke listesiyle aynı değildir. Şefkat ve bağışlayıcılık ilkeler arasında yer almaz.
+
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 7 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. "…… gerçek hayattaki davranışı değerlendirip yön verir, …… felsefenin dalı olarak ahlaki bağıntıların niteliğini inceler." → **Ahlak – Etik.**
+2. Etik ilkelere aykırı sayılmaya **en uzak** olan? (daha fazla çalışma isteği / kolay yoldan para / müşteriyi aldatma / daha fazla kazanma hırsı / işi önemsememe) → **Daha fazla çalışma isteği.**
+3. Ahlaki problemleri ve yargıları yorumlayan felsefi alan? → **Etik.**
+4. Girişimcinin **örnek olma sorumluluğunu** destekleyen en önemli zemin? → **Ahlaki değerler ve hukuk normları.**
+5. Ontolojik açıdan **bizim dışımızda var olan gerçeklik**? → **Ahlak.** Etik ise ahlakın uygulama alanlarındaki yansımasıdır ve zamana göre değişir.
+6. Nazari ahlakın sorularından hangisi **hürriyet problemidir**? → **"İyi ile kötü arasında seçim yapma kudretine sahip miyiz?"** ("İyi ve kötü nedir?" değer problemidir.)
+7. Etik liderlik ve etik davranışın oluşumuyla ilgili hangisi **yanlıştır**? → **"Hafif suçlar nispeten ehemmiyetsizdir."** Sosyal bulaşma: küçük ihlaller birikip kanıksanır.
+8. Hammadde, mamul, yarı mamul, insan kaynağı ve **zamanın** verimli kullanımı? → **Kaynakları etkin kullanma.**
+9. Madenin bolca bulunduğu bölgede bile **geri dönüşüme** azami gayret? → **Kaynakları etkin kullanma** (bolluk israfı haklı çıkarmaz).
+10. Pazardaki **güçlü konumdan** doğan dürüstlükten uzaklaşma? → **Alıcı tekeli olduğu için fiyat kırmak.** Üretime hile, taklit, ürün güvenliğini tehlikeye atma ve rakibi karalama **zayıflıktan** doğan sapmalardır.
+
+## Videolar
+
+LMS'teki iki video tamamlandı: **7.1** Etik ve Girişimcinin Sorumlulukları, **7.2** Girişimin Etik Temelleri. Herkese açık kopyaları yok, bu yüzden özetleri çıkarılamadı; konuları bu notun yukarısında kitaptan anlatılıyor.
