@@ -17,7 +17,9 @@ geldiği çıkarım; İleri kursu açılınca bölüm listesiyle karşılaştır
 1. **Videoyu LMS'te izle.** Bölümler sırayla açılıyor: bir bölümün sonundaki değerlendirme sınavı
    geçilmeden sonraki bölüm kilitli kalıyor.
 2. **Bölüm notunu oku.** Her notta aynı sıra var: *Bir bakışta* → *Kavramlar* → *Ezberlenecek listeler
-   ve sayılar* → *Kendimizi Sınayalım* → *Karıştırılabilecekler* → *Videolar*.
+   ve sayılar* → *Kendimizi Sınayalım* → *Karıştırılabilecekler* → *Bölüm sonu sınavı (LMS)* →
+   *Videolar*. "Bölüm sonu sınavı" LMS'teki sınavın sorularını doğru cevaplarıyla verir; bölüm
+   çözüldükçe eklenir.
 3. **Kitabın "Kendimizi Sınayalım" sorularını PDF'ten çöz,** sonra nottaki cevaplarla karşılaştır. Her
    bölümde 10 soru var; notlar kitabın kendi cevap anahtarını kullanıyor ve anahtarın metinle çeliştiği
    yerleri işaretliyor.

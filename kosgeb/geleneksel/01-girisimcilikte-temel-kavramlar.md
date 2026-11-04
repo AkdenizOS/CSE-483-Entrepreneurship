@@ -223,6 +223,21 @@ Sorular PDF s. 44'te başlar. Cevap anahtarı PDF s. 46'dadır.
 - **Motivasyon grupları**: "Bağımsızlığa yönelik" motivasyon en önemli neden sayılır. "Güvenliğe yönelik" motivasyon girişimciliğe duyulan ilginin en temel öğesidir. "Çevresel motivasyon" diye bir grup yoktur (Soru 6'daki çeldirici).
 
 
+## Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 1 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Vizede bunlara benzer sorular çıkabilir.
+
+1. Uzun çalışma saatleri, düzensiz gelir, stresli yaşam, ölçüsüz büyüme: hangileri girişimcilikte en çok karşılaşılan **zorluklardandır**? → **I, II ve III.** Ölçüsüz büyüme bir zorluk değil, **başarısızlık nedenidir**.
+2. Hangisi girişimcilik motivasyonlarından biri **değildir**? (bağımsızlığa yönelik / bireysel (içsel) / çevresel / maddi (dışsal) / güvenliğe yönelik) → **Çevresel motivasyonlar.** Dört grup: güvenlik, maddi, bireysel, bağımsızlık.
+3. Finansal kaynakların verimli kullanılması, doğru ve zamanında strateji, yeniliğe önem verme, işe yatırım yapma: işletmenin büyüme aşamasına **hızlı** geçmesi için hangileri gerekir? → **I, II, III ve IV** (hepsi).
+4. Hangisi KOBİ'lerin **girişimcilerinden kaynaklanan** dezavantajlarındandır? → **Sektörde yeni olmaktan kaynaklanan bilgi ve tecrübe eksikliği.** Tek yöneticiye bağımlılık, satış dalgalanması, fiyat rekabetine dayanıksızlık ve düşük miktarlı tedarik **ölçekten** kaynaklanan dezavantajlardır; soru bu ayrımı ölçüyor.
+5. Tutarlı, iş birliğine önem veren, sorunlara geçici çözümler üreten: hangileri etkili liderin özelliğidir? → **I ve II.** Lider sorunlara **yaratıcı** çözüm üretir, geçici değil.
+6. Hangisi yönetim fonksiyonlarından biri **değildir**? (programlama / kontrol / planlama / örgütleme / yürütme) → **Programlama.**
+7. Girişimin **gelecek nesillere aktarım** sağlayan paydaşı hangisidir? (müşteri / çalışan / dağıtıcı / devlet / doğa) → **Doğa.**
+8. Girişimcilik başarısızlığında bir **sebep olduğu kadar çoğu zaman bir sonuç** olan hangisidir? → **Nakit yetersizliği.** Diğer nedenler (yetersiz araştırma, ölçüsüz büyüme, ekip, çevre) sonunda nakit sorununa varır.
+9. Girişimcinin **en önemli fonksiyonu** hangisidir? → **Yenilik yapması ve yenilikçi bir işletme kurması.**
+10. Hangisi girişimcilik hakkında doğru bir bilgi **değildir**? → **"İş fikri çok karmaşık ise başarı garantidir."** Bu bir girişimcilik efsanesidir; başarılı fikirlerde basitlik öne çıkar.
+
 ## Videolar
 
 Videolar LMS'te bölüm bölüm açılır. Buradaki özetler aynı videoların YouTube'daki herkese açık kopyalarından çıkarıldı; süreler LMS'tekilerle aynı.
