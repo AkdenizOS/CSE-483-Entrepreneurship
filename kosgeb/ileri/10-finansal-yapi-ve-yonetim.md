@@ -255,3 +255,48 @@ Sorular PDF s. 236'da başlar; cevap anahtarı PDF s. 238.
 - **Brüt ve net işletme sermayesi**: brüt = dönen unsurların toplamı; net = brüt − kısa vadeli yabancı kaynaklar.
 - **İki karekök formülü**: nakit envanter modeli Q = √(2Fİ/(M−V)) (finansman maliyeti eksi senet verimi); ekonomik sipariş miktarı X = √(2RO/(PI)) (birim fiyat çarpı bulundurma oranı).
 - **Yöntem kimin için**: faaliyet devri katsayısı yeni başlayan girişim için; satışların yüzdesi ve günlük satış yöntemleri faaliyetine devam eden girişim için.
+
+## 📝 Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 10 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Finalde bunlara benzer sorular çıkabilir.
+
+1. Stok bulundurma gideri %20, parti başı tedarik maliyeti 200 TL, birim alış 30 TL, tahmini satış 3000 birim. Ekonomik sipariş miktarında stok bulundurma gideri? → **C) 1341.** EOQ = √(2·3000·200 / (30·0,20)) = √200.000 ≈ 447,2. Bulundurma gideri = (447,2/2)·6 ≈ 1341.
+2. Aynı veriyle ekonomik sipariş miktarında toplam stok maliyeti? → **C) 2683.** EOQ noktasında bulundurma = sipariş gideri ≈ 1341,6; toplam ≈ 2683.
+3. Vadesi gelmemiş alacak senetleri özet bilançoda hangi kalemde yer alır? → **E) Ticari alacaklar.** Ticari alacaklar.
+4. Günlük faaliyetler için gerekli nakit ve benzerleri ile bir yıl içinde nakde dönüşebilecek varlıkların tümü? → **E) İşletme sermayesi.** İşletme sermayesi (brüt: dönen varlıkların toplamı).
+5. Net çalışma sermayesi hakkında bilgi veren oran? → **E) Cari oran.** Cari oran = dönen varlıklar / KVYK; beklenen değer 2.
+6. Varlıkları ve bunların kaynaklarını gösteren tablo? → **D) Bilanço.** Bilanço.
+7. Bilanço, gelir tablosu, nakit akış tablosu, özkaynak değişim tablosu, dipnotlar: temel finansal tablolar seti hangisi? → **B) I, II, III, IV ve V.** Set beş parçadır, dipnotlar da dahil.
+8. 2018 satış 7.200, 2019 tahmini satış 15.000 (bin TL); kasa 120, alacaklar 60, stoklar 40; yılda 320 gün. Günlük Satış Yöntemine göre 2019 brüt işletme sermayesi? → **A) 450.** Günlük satış 7.200/320 = 22,5 → kasa 5,3 + alacak 2,6 + stok 1,7 ≈ 9,6 gün; 2019 günlük satış ≈ 46,8 → 9,6 × 46,8 ≈ 450 (kitabın yuvarlama tarzıyla; yuvarlamasız ≈ 458).
+9. Belirli bir dönemin hasılatı, giderleri, faaliyet dışı kazanç/kayıpları ve net kâr/zararı? → **C) Gelir tablosu.** Gelir tablosu.
+10. İki dönem arasındaki nakit ve nakit benzerlerindeki değişimi açıklayan tablo? → **B) Nakit akış tablosu.** Nakit akış tablosu.
+
+## 🎬 Videolar
+
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 10.1 — Girişimin Finansal Yapısının Belirlenmesi (12:05)
+
+- **Muhasebe**: mali karaktere sahip olayları **para birimiyle** ifade ederek **sınıflayan, tarih sırasıyla kaydeden, raporlayan ve yorumlayan** bir **mali sanattır**. Raporlama işlevi **finansal tablo** kavramını doğurur. **Temel finansal tablolar (5)**: **bilanço, gelir tablosu, nakit akış tablosu, öz kaynak değişim tablosu, dipnotlar**.
+- **Bilanço = finansal durum tablosu**: varlıkları ve kaynaklarını gösterir; **durağandır**, raporlama tarihindeki durumu yansıtır. **Aktif**: dönen + duran varlıklar; **pasif**: kısa ve uzun vadeli yabancı kaynaklar + öz kaynaklar. **Bilanço eşitliği**: aktifler = pasifler, varlıklar = kaynaklar.
+- **Gelir tablosu = finansal performans tablosu**: belirli bir süredeki **hasılat, giderler, faaliyet dışı kazanç ve kayıplar** ile **net kâr/zarar**. **Nakit akış tablosu**: birbirini izleyen **iki dönem arasındaki** nakit ve nakit benzerleri değişimi. **Öz kaynak değişim tablosu**: öz kaynak kalemlerindeki artış/azalışlar. **Dipnotlar**: tamamlayıcı açıklamalar.
+- Finansal yönetimin temel politikaları: **fon bulma, fon kullanma, kâr dağıtımı**. Bilançoda: **fon temini ↔ kısa ve uzun vadeli yabancı kaynaklar**, **fon kullanımı ↔ dönen ve duran varlıklar**, **kâr dağıtımı ↔ öz kaynaklar**. Finansman kaynakları **kaynağına göre** yabancı kaynak / öz kaynak, **vadesine göre** kısa / orta / uzun vadeli. **Otofinansman**: yatırım kâra geçince işletmenin **kendi faaliyetleri sonucunda fon elde etmesi**.
+- Fonların kullanım alanları: **sabit sermaye** ve **işletme sermayesi**. **Sabit sermaye** = bilançonun **duran varlıklarının finansmanı**; kalemler: **arazi, bina, tesis, makine, cihaz, kuruluş ve örgütlenme giderleri**. **İşletme sermayesi** = günlük faaliyetler için gereken **nakit ve nakit benzerleri** ile **bir yıl içinde nakde dönüşebilecek** varlıkların tümü.
+- **Faaliyet devri katsayısı yöntemi**: katsayı = **365 / faaliyet devri süresi**; işletme sermayesi = **katsayı × tahmini gider**. MSA işletmesi (kitapta: r@ktas): 365 / 70 gün = **5,214**; 5,214 × 1.000 TL = **5.214 TL**.
+- **Satışların yüzdesi yöntemi** (faaliyetine **devam eden** girişim için): MSA 2017 satışı **3.000 TL**, 2018 hedefi **8.000 TL**. Unsurlar 2017 satışına bölünür: aktifler toplamı **41,5**, pasifler toplamı **28,3**. **Brüt işletme sermayesi** = satış × aktif = 8.000 × 41,5 = **332.000 TL**; **net işletme sermayesi** = satış × (aktif − pasif) = 8.000 × 13,2 = **105.600 TL**. İşletme sermayesi **günlük satışlar** üzerinden de hesaplanabilir.
+- **Nakit yönetimi**: nakit **stratejik** öneme sahiptir; amaç yükümlülükleri sıkıntısız ödeyen ve faaliyet etkinliğini düşürmeden kârlılığı artıran **en uygun nakit tutarı**; önemli olan **tahsilatta etkinlik**. **Envanter modeli**: nakit düzeyi = √[2 × tedarik maliyeti × gelecek dönem nakit ihtiyacı / (finansman maliyeti − pazarlanabilir senetlerin verimliliği)]. MSA: 2 × 1.000 × 16.000 = 32.000.000; %8 − %6 = 0,02; √(32.000.000 / 0,02) = **40.000 TL**.
+- **Alacak yönetimi**: **kredi politikası** oluşturulur; **kredi vadesi, iskonto oranı, tahsilat politikası** belirlenir. Kredi işlemleri **çift taraflıdır**: kredili satışların yanında **kredili alışlar** da izlenir.
+- **Stok yönetimi**: stoklar işletme sermayesi unsurları içinde **paraya dönüşme kabiliyeti en az** kalemdir; amaç toplam stok maliyetinin **en az**, kârlılığın **en yüksek** olduğu seviye. **Stok çeşitleri**: ham madde, yarı mamul, mamul, ticari mal. **Stok maliyetleri**: tedarik, alış, stok bulundurma, stok yönetim sistemi. **Ekonomik sipariş miktarı** = √[2 × gelecek dönem ihtiyacı × tedarik maliyeti / (birim alış fiyatı × stok bulundurma oranı)]. MSA: 2 × 1.000 × 160 = 320.000; 20 × %10 = 2; √(320.000 / 2) = **400 adet** (seçenekler 100, 200, 250, 400, 1.000).
+
+### Video 10.2 — Bütçeleme ve Tahmin (11:03)
+
+- **Bütçeleme satış tahmini ile başlar**; ardından **üretim, gider ve nakit** bütçeleri gelir. **Nakit bütçesi**: olası **nakit ihtiyacına hazırlık** ve **nakit fazlasını değerlendirme** için önemlidir.
+- **Satış bütçesi** (MSA, Ocak-Mart): satışların **%50'si peşin, %50'si kredili**; kredili satışların **%80'i 1 ay, %20'si 2 ay** vadeli; tabloya **Kasım-Mart** tahmini satışları yazılır. Ocak satışı **45.000** → 22.500 peşin, 22.500 kredili → **18.000** (%80, Şubat'ta tahsil) ve **4.500** (%20, Mart'ta tahsil). Toplam tahsilatlar: **60.100 / 81.400 / 100.500**.
+- **Mal alım bütçesi**: her ay başı **100.000** ham madde; **%60 peşin** (60.000), **%40 bir ay sonra** (40.000).
+- **Makine alımı ve vergi**: Kasım'da 150.000'i peşin ödenen **350.000**'lik makinenin kalan **200.000**'i **Ocak ve Mart'ta 100.000'er**; Mart'ta **1.000 gelir vergisi**. **Genel gider bütçesi**: maaş ve ücret **20.000 / 15.000 / 15.000** (taahhüt edilen ay içinde), kira her ay **2.000**, diğer giderler **satışların %5'i** (Ocak: 2.250).
+- **Nakit akış bütçesi**: dönem başı nakit **150.000**; tahsilat ile ödemeler toplamı arasındaki **fark** bulunur, dönem başı nakit hesaba katılır. **Nakit ihtiyacı**: Ocak **14.150**, Şubat **38.600**, Mart **121.100**.
+- **Proforma finansal tablolar**: belirlenen dönemde beklenen faaliyetler gerçekleşirse oluşacak **tahmini tutarları** sunar. Sıra: **talep tahmini → satış bütçesi → üretim ve üretim maliyetleri bütçeleri → satışların maliyeti tablosu → Ar-Ge, pazarlama, satış ve dağıtım, genel yönetim, finansman gider bütçeleri → nakit bütçesi → proforma gelir tablosu ve bilanço**.
+- **Kâr maksimizasyonunun eksikleri**: (1) kâr artışı **risk durumunun değişmesi** demektir, katlanılacak risk çok daha yüksek olabilir; (2) **paranın zaman değeri** göz ardı edilir. Asıl amaç kârı en yükseğe çıkarmak **değil**, **firmanın piyasa değerini en yükseğe çıkarmaktır**. Hedef kâra ulaşmak ya da kâr noktasından uzaklığı görmek için önce maliyetler **değişken ve sabit** diye ayrılır, sonra **katkı tipi gelir tablosu** hazırlanır.
+- **Kâr eden işletmede de iflas riski vardır**: finansal tablolardan **borca batıklığı** tespit edilen şirketin **alacaklısı iflas isteyebilir**; mal varlığıyla borçlar ödenemeyecekse **ticaret mahkemesinde iflas davası** açılabilir.
+- MSA örneği: **14.000 TL sermaye** ile sermaye üzerinden **%50 net kazanç**; ilk göze çarpan **tesis, makine ve cihazlar** hesabı (yeni tesis ya da makine). Kritik olan **dönen varlıklar ile kısa vadeli yabancı kaynaklar arasındaki vade uyumudur**; dönen varlıkların kısa vadeli yabancı kaynakla finansmanı **negatif işletme sermayesine** yol açar, işletme **banka kredisi ya da ticari borç** yüzünden **iflas istemli dava** ile karşılaşabilir.
+- **Oran analizleri, likidite oranları**: kısa vadeli borç ödeme gücünü ve **işletme sermayesinin yeterliliğini** ölçer. **Likidite oranı** = dönen varlıklar / kısa vadeli yabancı kaynaklar. **Asit-test oranı**: **stoklar satılamazsa** kısa vadeli borç ödeme kabiliyeti. **Nakit oranı**: **alacaklar da tahsil edilemezse** ödeme gücü.

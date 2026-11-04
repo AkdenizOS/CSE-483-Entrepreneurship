@@ -6,11 +6,11 @@ Bu dersin sınavları KOSGEB'in online girişimcilik eğitiminden geliyor: video
 | Sınav | Eğitim | Kitap | Notlar |
 |-------|--------|-------|--------|
 | Vize | Geleneksel Girişimcilik ([LMS kursu](https://lms.kosgeb.gov.tr/course/view.php?id=964)) | Bölüm 1–8 | [geleneksel/](geleneksel/) |
-| Final | İleri Girişimcilik | Bölüm 9–16 | [ileri/](ileri/) |
+| Final | İleri Girişimcilik ([LMS kursu](https://lms.kosgeb.gov.tr/course/view.php?id=990)) | Bölüm 9–16 | [ileri/](ileri/) |
 
 Kitap: [kosgeb-girisimcilik-el-kitabi.pdf](kosgeb-girisimcilik-el-kitabi.pdf) (397 sayfa, KOSGEB).
-Geleneksel kursun 8 bölümü kitabın 1–8. bölümleriyle birebir aynı. 9–16'nın İleri eğitime denk
-geldiği çıkarım; İleri kursu açılınca bölüm listesiyle karşılaştır ve gerekirse bu tabloyu düzelt.
+Geleneksel kursun 8 bölümü kitabın 1–8. bölümleriyle, İleri kursun 8 bölümü kitabın 9–16. bölümleriyle
+birebir aynı.
 
 ## Nasıl çalışılır
 
@@ -46,13 +46,18 @@ ve [23 video özeti](https://akdenizos.org/lab/cse-483/kosgeb-video-ozetleri.htm
 
 ## İleri Girişimcilik — final
 
-| # | Bölüm | PDF s. |
-|---|-------|--------|
-| 9 | [Networking (Ağ Kurma)](ileri/09-networking.md) | 188–219 |
-| 10 | [Girişimin Finansal Yapısının Belirlenmesi ve Yönetimi](ileri/10-finansal-yapi-ve-yonetim.md) | 220–249 |
-| 11 | [Yeni Girişimler için Finansal Kaynaklara Erişim](ileri/11-finansal-kaynaklara-erisim.md) | 250–271 |
-| 12 | [Yenilik Yönetimi](ileri/12-yenilik-yonetimi.md) | 272–297 |
-| 13 | [Fikri Mülkiyet Hakları](ileri/13-fikri-mulkiyet-haklari.md) | 298–315 |
-| 14 | [Girişimin Profesyonel Yönetimi ve KOBİ'lerde Stratejik Yönetim](ileri/14-profesyonel-yonetim-ve-stratejik-yonetim.md) | 316–337 |
-| 15 | [Büyüme Sürecinin Yönetimi ve Büyüme Stratejileri](ileri/15-buyume-sureci-ve-stratejileri.md) | 338–359 |
-| 16 | [İş Planı Geliştirme](ileri/16-is-plani-gelistirme.md) | 360–371 |
+| # | Bölüm | PDF s. | 🎬 Video özeti |
+|---|-------|--------|-------------|
+| 9 | [Networking (Ağ Kurma)](ileri/09-networking.md) | 188–219 | 3 video |
+| 10 | [Girişimin Finansal Yapısının Belirlenmesi ve Yönetimi](ileri/10-finansal-yapi-ve-yonetim.md) | 220–249 | 2 video |
+| 11 | [Yeni Girişimler için Finansal Kaynaklara Erişim](ileri/11-finansal-kaynaklara-erisim.md) | 250–271 | 2 video |
+| 12 | [Yenilik Yönetimi](ileri/12-yenilik-yonetimi.md) | 272–297 | 2 video |
+| 13 | [Fikri Mülkiyet Hakları](ileri/13-fikri-mulkiyet-haklari.md) | 298–315 | 2 video |
+| 14 | [Girişimin Profesyonel Yönetimi ve KOBİ'lerde Stratejik Yönetim](ileri/14-profesyonel-yonetim-ve-stratejik-yonetim.md) | 316–337 | 2 video |
+| 15 | [Büyüme Sürecinin Yönetimi ve Büyüme Stratejileri](ileri/15-buyume-sureci-ve-stratejileri.md) | 338–359 | 3 video |
+| 16 | [İş Planı Geliştirme](ileri/16-is-plani-gelistirme.md) | 360–371 | 1 video |
+
+Aynı içerik etkileşimli olarak lab'da: [80 LMS sorusu](https://akdenizos.org/lab/cse-483/kosgeb-ileri-lms-sinavlari.html)
+ve [17 video özeti](https://akdenizos.org/lab/cse-483/kosgeb-ileri-video-ozetleri.html).
+
+LMS anahtarının kitapla çeliştiği sorular notlarda "Dikkat" diye işaretli: Bölüm 12 S1, Bölüm 13 S1 ve S4.

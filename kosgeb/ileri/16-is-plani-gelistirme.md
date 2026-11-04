@@ -158,3 +158,35 @@ Sorular PDF s. 369'da başlar; cevap anahtarı PDF s. 371.
 - Süreler: genel projeksiyon 2–4 yıl, ilk 12 ay aylık tablo, yönetici özeti 1–2 sayfa.
 - Ekip bilgisi kendi bölümünde (4. bölüm) yer alır, uygulama unsurlarında değil; gelir tablosu finansal planda yer alır, iş fikri bölümünde değil.
 - Başarılı plan kısa ve özdür ve girişimcinin kendi elinden çıkar; danışmanın standart formatında veya kopyala-yapıştır plan 10 büyük hatadan biridir.
+
+## 📝 Bölüm sonu sınavı (LMS)
+
+LMS'teki "Bölüm 16 Sonu Değerlendirme Sınavı"nın 10 sorusu, doğru cevaplarıyla. Finalde bunlara benzer sorular çıkabilir.
+
+1. İş planının uygulama unsurları arasında hangisinin yer alması şart değildir? → **A) Girişimci ekip bilgisi.** Ekip ayrı bir bölümdür (Girişim Ekibi). Kitabın kendi sorusuyla aynı.
+2. Hangisi iyi bir iş planının özellikleri arasında yer almaz? → **B) Bütün detayların uzun uzun anlatılması.** Başarılı iş planı kısa ve özdür.
+3. Finansal projeksiyonlar için elde edilebilecek en kolay bilgi? → **C) Başvuru masrafları.** Başvuru masrafları kesin ve bilinir; diğerleri tahmin gerektirir.
+4. Hangisi yönetici özetinin amaçlarından biri değildir? → **D) Tehditleri ve zayıf yönleri belirlemek.** Yönetici özeti 1–2 sayfadır, en son yazılır, okuyucuyu detaylarla boğmaz.
+5. Değer önerisi (I), hedef pazarlar (II), rekabet analizi (III), potansiyel yatırım alanları (IV), hukuki nitelik (V): iş fikri ve fırsatlar bölümünde doğru sıra? → **B) V-II-I-III-IV.** Önce şirketin hukuki niteliği, sonra hedef pazar, hemen ardından değer önerisi, sonra rekabet, en son ilintili yatırım alanları.
+6. Hangisi finansal projeksiyonların temel amaçları arasında yer almaz? → **E) Temel maliyetleri belirlemek.** Kitaptaki dört amaç: kârlılık, sermaye ihtiyacı ve kullanımı, satışla büyüme, borç ödeme gücü.
+7. Hangisi iş planının ürün ve hizmetler bölümünde yanıtlanması gereken sorulardandır? → **A) Ürün gamının zaman içinde genişletilmesi düşünülmekte midir?.** B pazarlama, C üretim, D ve E tedarik bölümünün sorusudur.
+8. "İş Fikri ve Fırsatlar" bölümünde mutlaka olması gerekmeyen bilgi? → **C) Gelir tablosu.** Gelir tablosu finansal plana aittir.
+9. Hangisi rakip analizinde yer verilmesi gereken bilgilerden değildir? → **B) Geçmişteki rakiplere ilişkin veriler.** Gerekenler: rekabetin yapısı ve şiddeti, mevcut ve gelecekteki rakipler, güçlü/zayıf yönler, rekabet stratejisi, avantajın sürdürülebilirliği.
+10. Hangisi yatırımcı ve kreditörlerin girişimcileri değerlendirirken kullandığı göstergelerden biri değildir? → **A) Girişimcilerin gelecek vizyonları.** Kitaptaki liste: çekirdek ekibin kaç kişi olduğu, birikim ve yetenekler, geçmiş başarılar, eğitim, güvenilirlik, motivasyon.
+
+## 🎬 Videolar
+
+LMS'teki videoların özetleri; transkriptler yerel olarak `kosgeb/transcripts/` altında, repoya girmez.
+
+### Video 16.1 — İş Planı Gerçekleştirme (9:15)
+
+- **İş planı**: girişimcinin iş fikrini ana unsurlarıyla geliştirmek ve **potansiyel yatırımcılara tanıtmak** için hazırladığı **özet rapor**. Fikri bütüncül ortaya koymaya, **güçlü ve zayıf yanları** değerlendirmeye, hedefleri **gerçekçi** açıklamaya yardım eder; girişimci için **hem harita hem pusula** görevi görür, öncelikli alan ve faaliyetleri tespit ettirir.
+- **İki temel işlevi**: (1) iş fikrini **araştırma ve veri tabanlı** detaylandırıp bütüncül değerlendirmek; (2) **dış paydaşlar**: ortak bulmak, yatırımcı ikna etmek, **banka kredisi**, **kamu fonu** desteği almak, **sektörde kabul görmek**. İş fikrini anlatmanın **en önemli aracıdır**.
+- İş planı her detayı uzun uzun anlatan bir belge **değil**; **kısa ve öz**, hızlı ve zahmetsiz okunabilen bir **özettir**. **Altı ana bölüm**: **yönetici özeti; iş fikrinin unsurları ve fırsatlar; uygulama süreci ve unsurları; girişim ekibi ve ortaklar; finansal plan; ekler**.
+- **Yönetici özeti**: **1-2 sayfalık** özet; iş fikri, ne ve nasıl yapılacağı, fırsatlar, **başarı projeksiyonu** ve hedef kurum ve kişilerden **ne beklendiği**. İlk bölüm olmasına rağmen **en son yazılması** önerilir; çoğu iş insanı önce bunu okur, etkilenmezse gerisini okumaz.
+- **İş fikrinin unsurları ve fırsatlar**: şirket türü, nasıl kurulacağı, ortaklar, faaliyet yerleri, **misyon ve vizyon**; ardından en can alıcı kısım: **hedef pazarlar ve değer önerisi**. "Hangi müşteri grubuna ne fayda?" sorusu **her müşteri grubu için ayrı ayrı** yanıtlanmalı; değer önerisinin **fayda** bileşeni kadar **maliyet** bileşeni de açıklanmalı. Ayrıca **rekabet ve rakip analizi** (yapı ve şiddet, güçlü ve zayıf yönler, rekabet stratejisi, **rekabet avantajının sürdürülebilirliği**) ve başarı halinde girişimin evrileceği yön ve **yatırım alanları**.
+- **Uygulama süreci ve unsurları**: ürün ve hizmet özellikleri; **tedarik, pazarlama, üretim, dağıtım, satış** süreçlerinin nasıl yürütüleceği; **geçmiş başarılar, kritik aşamalar, performans göstergeleri, risk alanları**.
+- **Girişim ekibi ve ortaklar**: yatırımcı ve kreditör için **fikirden daha önemli** olan, girişimi **kimin** gerçekleştireceğidir; çoğu yatırımcı **iş fikrine değil kişilere ve itibarlarına** yatırım yapar. Çekirdek ekibin sayısı, birikim ve yetenekleri, geçmiş başarıları, eğitimi, **güvenilirliği**, motivasyonu önemlidir; **örgüt planı** eklenmesi faydalıdır; çalışanlar ve ortaklar hakkında bilgi verilir.
+- **Finansal plan**: amaçlar **kârlılık potansiyeli**, **gereken sermaye miktarı ve kullanımı**, satış ve cirolarla büyüyüp **borçları ödeyebileceğini** veriyle göstermek. Finansal projeksiyonlar önceki bölümlerdeki planların **finansal sonuçlarını** gösteren özet tablolardır; başlıcaları **gelir tablosu, bilanço, nakit akış tablosu**.
+- Kestirimler çoğu girişim için **2 ile 4 yıl**; **Türkiye** gibi dinamik ortamlarda **daha kısa vade** gerekebilir. Var olan girişim için en değerli bilgi **geçmiş veriler ve finansal tablolardır**; yeni girişimde bu zor olduğundan **çok keskin varsayımlar** gerekir. Varsa **çıkış planı** (belirli büyüklük ve kârlılıkta **hisseleri satarak çıkış**) erken aşamada yatırımcı ve kreditörlerle paylaşılmalı.
+- **Ekler**: iki amacı (1) iddia, varsayım ve tahminleri **belgeyle kanıtlayıp inandırıcılığı artırmak** (banka makbuzu, **tapu**, **diploma** vb.); (2) plana sığmayan **ayrıntıları** ilgilenen okuyucuya aktarmak. Planın tüm unsurları **ciddiyet ve profesyonellikle** hazırlanmalı; yalnız **içerik değil şekil** de bunu desteklemeli.
